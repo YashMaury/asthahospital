@@ -11,7 +11,7 @@
                                 <!-- THE BOXSLIDE EFFECT EXAMPLES  WITH LINK ON THE MAIN SLIDE EXAMPLE -->
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 5 -->
 
@@ -38,7 +38,7 @@
                                 </li>
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_2.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 2 -->
                                     <div class="tp-caption skewfromright stl imed-sl1" data-x="left" data-y="65"
@@ -384,7 +384,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_shrey_singh.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -397,7 +397,7 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Shrey Singh
                                         </strong><br>
                                         M.D. | DNB | (Nephrology)
                                     </p>
@@ -406,7 +406,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_sumita _arora.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -419,9 +419,9 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Sumita Arora
                                             </strong><br>
-                                        M.S. | FRCS | (Minimal Access Surgery)
+                                        M.B.B.S. | M.D | (Obstetrics $ Gynaecology)
                                     </p>
                                 </div>
                             </div>
@@ -429,7 +429,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_deepika.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px;">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -444,15 +444,15 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name </strong><br>
-                                        M.S. | M.Ch | (Neurosurgery)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Deepika Tiwari</strong><br>
+                                        B.D.S | M.B.A | FMC (Consultant Dental Surgeon)
                                     </p>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_ashok_kumar.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -467,15 +467,15 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name </strong><br>
-                                        M.S. | M.Ch | (Pediatric Surgeon)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Ashok Kumar </strong><br>
+                                        M.B.B.S | M.d| (Rediologist)
                                     </p>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_geeta _sharma.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -488,8 +488,8 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name </strong><br>
-                                        M.D. | MRCP | (Pediatrics)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Geeta Sharma </strong><br>
+                                        Master in Physiotherapy | MRCP | (Neurology)
                                     </p>
                                 </div>
                             </div>
@@ -497,7 +497,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_sharmila_ghosal.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -510,15 +510,15 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        M.D. | D.M. | (Gastroenterology)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Sharmila Ghosal</strong><br>
+                                        M.B.B.S | DCH. | (Paediatrician)
                                     </p>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_neena_gupta.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -531,8 +531,8 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        M.D.
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Neena Gupta</strong><br>
+                                        M.D.(Nephrologists)
                                     </p>
                                 </div>
                             </div>
@@ -540,7 +540,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_rajesh_arora.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -553,7 +553,7 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Rajesh Arora</strong><br>
                                         M.S. | M.Ch. |(Urology)
                                     </p>
                                 </div>
@@ -561,7 +561,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_geetanjali.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -576,15 +576,15 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        DGO | FICMCH | (Gynae.)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Geetanjali</strong><br>
+                                        M.B.B.S| DCH | (KGMU,LKO.)
                                     </p>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_dhananjay.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -597,15 +597,15 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        DGO - DNB | MNAMS | (Gynae.)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Dhananjay V Ashturkar</strong><br>
+                                        MBBS, DPM (Psychiatry), F. I. P. S.
                                     </p>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_sanjeev.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -618,30 +618,8 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        M.S. | (Gynae.)
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="feed-img">
-                                    <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
-                                            style="height:315px; padding:4px">
-                                    </div>
-                                    <div class="feed-btn indi-btn">
-                                        <ul>
-                                            <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
-                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="#About_Doctors.php">View Profile</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="item_caption">
-                                    <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        M.D. | (Anaesthesia)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Sanjeev Gupta</strong><br>
+                                        (Aastha Kidney & Super Speciality Hospital)
                                     </p>
                                 </div>
                             </div>
@@ -649,7 +627,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
+                                        <img src="images/Doctors/dr_ankush.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -662,8 +640,30 @@
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
-                                        DCH |(Paediatrics)
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Ankush Jairath</strong><br>
+                                        MBBS, MS DNB( UROLOGY& Andrology)
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="feed-img">
+                                    <div class="clearfix">
+                                        <img src="images/Doctors/dr_dushant_dhawan.jpg" alt="Dr.Doctor Name"
+                                            style="height:315px; padding:4px">
+                                    </div>
+                                    <div class="feed-btn indi-btn">
+                                        <ul>
+                                            <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
+                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a href="#About_Doctors.php">View Profile</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="item_caption">
+                                    <p>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Dushant Dhawan</strong><br>
+                                        MBBS, (Diploma In Anasthesia)
                                     </p>
                                 </div>
                             </div>
@@ -1479,7 +1479,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/1.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1496,7 +1496,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/7.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1513,7 +1513,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/12.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1530,7 +1530,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/5.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1547,7 +1547,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/6.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1564,7 +1564,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png"
+                                        <a href="#Gallery.php"><img src="images/Gallery/10.jpg"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1581,7 +1581,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png"
+                                        <a href="#Gallery.php"><img src="images/Gallery/9.jpg"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1598,7 +1598,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png"
+                                        <a href="#Gallery.php"><img src="images/Gallery/8.jpg"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
