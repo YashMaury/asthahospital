@@ -58,26 +58,13 @@
                                 <div class="col-sm-12 col-md-12 col-lg-12">
                                     <p style="text-align: justify;font-size:13.5px; color:black; line-height:25px;">
                                       
-                                        Astha was a mythical bird of Ancient Egypt which reputedly burned every 500 Years and rose rejuvenated from its Ashes with renewed youth to live another cycle. 
-                                        This word is used as a symbolic for a person or thing who is regarded as uniquely remarkable in some respect. 
-                                    
-                                        <br>
-                                        Similarly, our Hospital is named as Astha because it is a never ending organization which will exist and run successfully always. Like the Astha Bird, it will take re-birth again and again with a much more enthusiasm in better Hospital. Astha is a multi-specialty hospital which is a venture of Prayag Health Care where Prayag is the old name of Allahabad, 
-                                        a city known for its confluence of 3 rivers Ganga, Jamuna and Saraswati called as ‘Sangam’. Allahabad is a peaceful, cheerful and clean city with lots of greenery adding to its beauty. 
-                                        <br>
-                                        Astha Hospital is the First Wide ranging Multi and Super-Specialty Hospital of this city with the mission to provide Quality Medical and Health Care. Astha Hospital is a unit of Prayag Health Care And Research Centre Pvt. Ltd., one amongst the best healthcare institutes in the eastern Uttar Pradesh. 
-                                       Astha is the genesis of the dream seen ten years back by few Super-Specialists of the Allahabad city to provide superspeciality services under one roof. The dream nurtured and grew within the founder directors of Astha Hospitals
-                                Dr. Sanjay Asthana, Dr. J.V. Rai, Dr. Dhanesh Agrahari, Dr. R.K.Sinha , Dr. Gupta, Dr. Alok Mishra, Dr. Vibhav Malviya, 
-                                        & Dr. Neogi until the point of culmination happened in 2012. <br>
-                                        
-                                        Astha hospital has been designed as an energy efficient building that complies with the ECBC (Energy Conservation Building Code) and sustainable design concepts have been incorporated in different aspects of the building design.  Astha Hospital is situated in the heart of city in Tagore Town, in front of Colonelganj Inter College near Anand Bhawan & Balson Crossing.
-                                        It offers a convenient location for Patients, their Attendants and Families.	
-                                        
-                                        <br>
-                                        Astha hospital has centrally air-conditioned OPD block facilitated with round the clock Pharmacy backup & a big waiting lobby with nice ambience &
-                                        comfort. It has 100+ beds including 16 bed I.C.C.U, 8 bed N.I.C.U, 6 bed P.I.C.U, well equipped high dependency surgical unit, dialysis unit, General Ward, AC Semi-private, Single AC & Deluxe Room.
-                                        It has O.T Complex of five Operation Theatres with advanced Gastro endoscopy unit equipped with latest Anesthesia work station, defibrillator, monitors, Multi-Para monitors & C-Arm device for more precision. 
-
+                                      Welcome to <a href="#">Aastha Hospital</a> Jaunpur
+About Aastha Hospital
+Aastha as the name suggests means faith
+We aim to provide quality surgical care and management at a reasonable cost.
+Aastha Hospital Jaunpur is a state-of-the-art multi-specialty facility with more than 50 beds, state-of-the-art technology, providing quality healthcare services in the first phase. The hospital has been the most promising facility for the surrounding community since its inception. The modern infrastructure complies with all statutory, safety guidelines and meets the quality standards as per NABH. <br>
+We believe that the most important aspect of healthcare is the caring human touch and this is reflected in our motto. More than health care, human care. <br>
+Aastha was started in 2020 in one of the best locations in the locality with a well qualified team of doctors specialized in all treatment modalities. It is Thane's first dedicated plastic and aesthetic surgery center. It was started because a dire need was felt to enhance the look of the already beautiful society. Here cosmetic surgical and non-surgical procedures are perform   with minimal hospital stay, less post operative pain, quicker return to activity and better leadership.
                                     </p>
                                 </div>
                             </div>
