@@ -128,7 +128,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a href="#Core_Management_Team.php">Core Management Team</a></li>
                                     <li><a href="About_Us.php">About Astha</a></li>
-                                    <li><a href="#About_Our_Logo.php">About our Logo</a></li>
+                                    <li><a href="About_Our_Logo.php">About our Logo</a></li>
                                     <li><a href="#Mission_And_Vision.php">Mission and Vision</a></li>
                                     <li><a href="#Why_Us-2.php">Why Us</a></li>
                                     <!--<li><a href="Achievements.php">Achievements</a></li>-->
