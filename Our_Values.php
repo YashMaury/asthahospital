@@ -47,7 +47,7 @@
                             <h4 class="fa fa-shield fontawsme"></h4><span>Achievements</span>
                         </a>
                         <a href="Our_Values.html" class="list-group-item active">
-                            <h4 class="fa fa-plus-square fontawsme"></h4><span>Our Values</span>
+                            <h4 class="fa fa-plus-square fontawsme"></h4><span> Patients' Values in Astha Hospital</span>
                         </a>
                     </div>
                 </div>
