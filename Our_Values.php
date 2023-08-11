@@ -72,6 +72,40 @@ Out Staff Members are well trained, well mannered and soft spoken who are passio
 We never tolerate any kind of indiscipline in our hospital. For us health of the Patient is the utmost important
 thing and we never compromise with this. We value that the treatment is delivered timely at reasonable rate and 
 with best possible efforts to each and every patient. 
+<br>
+
+    1. <u><b>Patient-Centered Care:- </b></u>Placing the wellbeing and preferences of patients at the forefront of all decisions.<br>
+    2.<u><b> Compassion:-</b></u> Demonstrating empathy, kindness, and understanding in every interaction.<br>
+    3.<u><b> Integrity:-</b></u> Upholding honesty, transparency, and ethical conduct in all endeavors.<br>
+    4. <u><b>Excellence:-</b></u> Striving for the highest standards of quality, professionalism, and expertise.<br>
+    5. <u><b>Respect:- </b></u>Treating every individual with dignity, regardless of background or role.<br>
+    6.<u><b> Collaboration:-</b></u> Fostering teamwork and cooperation among staff, patients,and partners.<br>
+    7. <u><b>Innovation:- </b></u>Embracing creativity and forward-thinking to drive advancements in healthcare.<br>
+    8.<u><b> Accountbility:-</b></u> Taking responsibility for our action and outcomes, and learning from mistakes.<br>
+    9. <u><b>Empowerment:-</b></u> Empowering patients to make informed decisions about their health.<br>
+    10.<u><b> Diversity:-</b></u>Embracing and celebrating the diverse backgrounds and perspectives of all.<br>
+    11. <u><b>Sefety:- </b></u>Esuring a secure and protected environment for patients, staff,and visitors.<br>
+         
+    12. <u><b>Continuous Learning:-</b></u>Valuing ongoingeducation and growth for personal and professional development.<br>
+    13. <u><b>Adaptability:-</b></u> Embracing change and adjusting to evolving patient needs and medical trends.<br>
+    14.<u><b> Commmunity Engagement:-</b></u> Engaging with and  supporting  the local community’s health and well-being.<br>
+    15. <u><b>Environmental Responsibility:-</b></u> Promoting eco-friendly practices for a healthier plant.<br>
+    16.<u><b> Open Communication:-</b></u> Encouraging open and honest dialogue with patients and within the team.<br>
+    17. <u><b>Family-Centered Approach:-</b></u> Recognizing the importance of family support in healthcare journeys.<br>
+    18. <u><b>Patient Advocacy:-</b></u> Championing patients’ rights and needs within the healthcare system.<br>
+    19. <u><b>Empathy:-</b></u> Understanding and sharing the feelings of patients and their families.<br>
+    20. <u><b>Wellness Promotion:-</b></u> Educating and encouraging healthy lifestyles to prevent illness.<br>
+    21.<u><b> Cultrual Sensitivity:-</b></u> Respecting and catering to driveese cultural beliefs and practices.<br>
+    22.<u><b> Leadership:-</b></u> Leading by example and inspiring others to excel in their roles.<br>
+    23.<u><b> Quality Improvement:- </b></u>Seeking opportunities to enhance the quality of care and services.<br>
+    24. <u><b>Patient Education:-</b></u> Providing clear and comprehensive information to empower patients.<br>
+    25. <u><b>Inclusion:- </b></u>Creating an inclusive environment where everyone feels valued and heard.<br>
+    26. <u><b>Community Outreach:-</b></u> Extending care beyond the hospital walls through outreach programs.<br>
+    27. <u><b>Ethical Behavior:- </b></u>Demonstating integrity and ethical behavior in all interactions.<br>
+    28. <u><b>Patient Safety:-</b></u> Prioritizing measures that ensure the safety of patients all times.<br>
+    29. <u><b>Informed Decision-Making:-</b></u> Supporting patients in making well-informed healthcare choices.<br>
+    30. <u><b>Involvement in Research:-</b></u> Contributing to medical advancements through research initiatives.<br>
+       
 
                                         
                                     </p>
@@ -90,7 +124,7 @@ We always dreamt through open such a large scale super speciality hospital in th
                                     </p>
                                 </div>
                                 <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <img src="images/Astha.jpg" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
+                                    <img src="images/Hospital/Hospital_small.png" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
                                     <h4>Hospital </h4>
                                   <p style="text-align: justify;font-size:13px;">
                                       When we were planning to open a hospital, our only mission was that to open such a hospital which could provide every basic and advanced health facilities under one roof so that the Patients or their attendants don’t have to roam here and there in search of super specialist facilities. Considering the mental status of attendants and the Patients, every facilities like
@@ -136,106 +170,4 @@ We always dreamt through open such a large scale super speciality hospital in th
 
 
 
-<footer class="footer">
-
-    <div class="container">
-        <div class="row">
-            <!--Foot widget-->
-            <div class="col-xs-12 col-sm-6 col-md-3 foot-widget">
-                <a href="index.html"><div class="foot-logo col-xs-12 no-pad">
-                       
-                    </div></a>
-
-                   <address class="foot-address">
-                  <div class="col-xs-12 padding_remove"><i class="fa fa-globe address-icons"></i><span>Astha Hospital</span></div>
-                    <div class="col-xs-12 padding_remove"><i class="fa fa-file address-icons"></i><span>49/163A, Jawahar Lal Nehru Road, Tagore Town, Allahabad.</span></div>
-                    <div class="col-xs-12 padding_remove"><i class="fa fa-phone address-icons"></i><span>+91 - 9838086888</span></div>
-                    <div class="col-xs-12 padding_remove"><i class="fa fa-envelope address-icons"></i><span>info@Asthahospital.org</span></div>
-                    <div class="col-xs-12 padding_remove"><a href="http://www.Asthahospital.org/"style="color:black">Visitors No:-&nbsp;<img src="http://www.reliablecounter.com/count.php?page=www.Asthahospital.org1&amp;digit=style/odometers/5/&amp;reloads=0" alt="" title="" border="0"   style="width:50px;"></a></div>
-                </address>
-            </div>
-
-            <!--Foot widget-->
-            <div class="col-xs-12 col-sm-6 col-md-3 recent-post-foot foot-widget">
-                <div class="foot-widget-title">Quick Links</div>
-                <ul>
-                    <li><a href="Doctors.html">Doctors</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Intensive_Care_Unit.html">Services</a></li> 
-                    <li><a href="Patient_Rooms.html">Patient Rooms</a></li> 
-                    <li><a href="About_Us.html">Who We Are</a></li> 
-                    <li><a href="Why_Us-2.html">Why Us</a></li>
-                    <li><a href="Doctor_Schedule.html">OPD Schedule</a></li>
-                   
-                   
-                </ul>
-            </div>
-
-
-            <!--Foot widget-->
-            <div class="col-xs-12 col-sm-6 col-md-3 recent-post-foot foot-widget">
-                <div class="foot-widget-title" style="font-family: Montserrat;">Disclaimer</div>
-                <ul>
-                    <li><a href="Terms_Conditions.html">Terms & Conditions</a></li>
-                    <li><a href="Privacy_Policy.html">Privacy Policy</a></li>
-                     <li><a href="Guidelines_For_Patients.html">Guidelines for Patients</a></li> 
-                    <li><a href="Guidelines_For_Visitors.html">Guidelines for Visitors</a></li> 
-
-
-
-                   
-                </ul>
-            </div>
-
-            <!--Foot widget-->
-            <div class="col-xs-12 col-sm-6 col-md-3 foot-widget">
-               
-                <div class="foot-widget-title">social media</div>
-                <div class="social-wrap">
- <div class="fb-page" data-href="https://www.facebook.com/Asthahospitalallahabad" data-tabs="timeline" data-height="150" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Asthahospitalallahabad" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Asthahospitalallahabad">Astha Hospital</a></blockquote></div>
-                </div>
-            </div>
-
-        </div>
-    </div>       
-
-</footer>
-<div class="bottom-footer">
-    <div class="container">
-
-        <div class="row">
-            <!--Foot widget-->
-            <div class="col-xs-12 col-sm-12 col-md-12 foot-widget-bottom">
-                <p class="col-xs-12 col-sm-6 col-md-9 no-pad">Astha Hospital © 2012 - 2018 | All Rights Reserved.</p>
-                <p class="foot-menu col-sm-6 col-xs-12 col-md-3 no-pad" style="text-align: right;">
-                    Designed By: <a target="_blank" href="https://www.swankinfytech.in/index.html" target="_blank" style="color:#fff;">Swank InfyTech</a>                      
-                </p>
-            </div>
-        </div>
-    </div> 
-</div>
-
-</div>
-
-</body>
-
-<!-- Mirrored from Asthahospital.org/Our_Values.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 08:11:58 GMT -->
-</html>
-<script src="../ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>  
-<script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
-<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="js/jquery.scrollUp.min.js"></script>
-<script type="text/javascript" src="js/jquery.sticky.min.js"></script>
-<script type="text/javascript" src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/jquery.flexisel.min.js"></script>
-<script type="text/javascript" src="js/jquery.imedica.min.js"></script>
-<script type="text/javascript" src="js/custom-imedicajs.min.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
-
-<script src="js/owl.carousel.min.js"></script>
-
-
-</body>
-</html>
+<?php include 'include/footer.php'?>

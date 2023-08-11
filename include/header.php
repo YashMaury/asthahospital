@@ -124,55 +124,55 @@
                         <ul class="navbar-nav navbar-right">
                             <li><a href="index.php">Home</a></li>
                             <li class="dropdown">
-                                <a href="#Doctors.php" class="dropdown-toggle" data-toggle="dropdown">About Hospital</a>
+                                <a href="Doctors.php" class="dropdown-toggle" data-toggle="dropdown">About Hospital</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#Core_Management_Team.php">Core Management Team</a></li>
+                                    <li><a href="Core_Management_Team.php">Core Management Team</a></li>
                                     <li><a href="About_Us.php">About Astha</a></li>
-                                    <li><a href="#About_Our_Logo.php">About our Logo</a></li>
-                                    <li><a href="#Mission_And_Vision.php">Mission and Vision</a></li>
-                                    <li><a href="#Why_Us-2.php">Why Us</a></li>
+                                    <li><a href="About_Our_Logo.php">About our Logo</a></li>
+                                    <li><a href="Mission_And_Vision.php">Mission and Vision</a></li>
+                                    <li><a href="Why_Us-2.php">Why Us</a></li>
                                     <!--<li><a href="Achievements.php">Achievements</a></li>-->
-                                    <li><a href="#Our_Values.php">Our Values</a></li>
+                                    <li><a href="Our_Values.php">Our Values</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#Departments.php">Departments</a>
+                            <li><a href="Departments.php">Departments</a>
 
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                                <a href="" class="dropdown-toggle" data-toggle="dropdown">Services</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#Intensive_Care_Unit.php">ICU</a></li>
-                                    <li><a href="#NICU.php">NICU</a></li>
-                                    <li><a href="#PICU.php">PICU</a></li>
-                                    <li><a href="#Hygiene.php">Hygiene</a></li>
-                                    <li><a href="#Pathology.php">Pathology</a></li>
-                                    <li><a href="#harmacy.php">Pharmacy</a></li>
-                                    <li><a href="#Patient_Rooms.php">Patient Rooms</a></li>
-                                    <li><a href="#Oxygen_Plant.php">Oxygen Plant</a></li>
-                                    <li><a href="#Solar_Panel.php">Solar Panel Plant</a></li>
-                                    <li><a href="#Power_BackUp_Plant.php">Power Back Up Plant</a></li>
-                                    <li><a href="#Water_Treatment.php">Water Treatment Plant</a></li>
-                                    <li><a href="#Operation_Unit.php">Operation Theater Unit</a></li>
-                                    <li><a href="#Dialysis_Unit.php">High End Dialysis Unit</a></li>
+                                    <li><a href="Intensive_Care_Unit.php">ICU</a></li>
+                                    <li><a href="NICU.php">NICU</a></li>
+                                    <li><a href="PICU.php">PICU</a></li>
+                                    <li><a href="Hygiene.php">Hygiene</a></li>
+                                    <li><a href="Pathology.php">Pathology</a></li>
+                                    <li><a href="harmacy.php">Pharmacy</a></li>
+                                    <li><a href="Patient_Rooms.php">Patient Rooms</a></li>
+                                    <li><a href="Oxygen_Plant.php">Oxygen Plant</a></li>
+                                    <li><a href="Solar_Panel.php">Solar Panel Plant</a></li>
+                                    <li><a href="Power_BackUp_Plant.php">Power Back Up Plant</a></li>
+                                    <li><a href="Water_Treatment.php">Water Treatment Plant</a></li>
+                                    <li><a href="Operation_Unit.php">Operation Theater Unit</a></li>
+                                    <li><a href="Dialysis_Unit.php">High End Dialysis Unit</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
                                 <a href="#">Doctors</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#Doctors.php">Our Core Doctors</a></li>
-                                    <li><a href="#Visiting_Doctors.php">Visiting Doctors</a></li>
+                                    <li><a href="Doctors.php">Our Core Doctors</a></li>
+                                    <li><a href="Visiting_Doctors.php">Visiting Doctors</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#Staff.php">Staff</a>
+                            <li><a href="Staff.php">Staff</a>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Patients & Visitors</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#Admission_Procedure.php">Admission Procedure</a></li>
-                                    <li><a href="#During_Stay.php">During Stay</a></li>
-                                    <li><a href="#Discharge_Procedure.php">Discharge Procedure</a></li>
-                                    <li><a href="#Timing_Schedule.php">Timing & Schedule</a></li>
-                                    <li><a href="#Doctor_Schedule.php">Doctors OPD Schedule</a></li>
-                                    <li><a href="#Guidelines_For_Patients.php">Guidelines For Patients</a></li>
-                                    <li><a href="#Guidelines_For_Visitors.php">Guidelines For Visitors</a></li>
+                                    <li><a href="Admission_Procedure.php">Admission Procedure</a></li>
+                                    <li><a href="During_Stay.php">During Stay</a></li>
+                                    <li><a href="Discharge_Procedure.php">Discharge Procedure</a></li>
+                                    <li><a href="Timing_Schedule.php">Timing & Schedule</a></li>
+                                    <li><a href="Doctor_Schedule.php">Doctors OPD Schedule</a></li>
+                                    <li><a href="Guidelines_For_Patients.php">Guidelines For Patients</a></li>
+                                    <li><a href="Guidelines_For_Visitors.php">Guidelines For Visitors</a></li>
                                     <li><a href="#Billing_Procedure.php">Billing Procedure</a></li>
                                     <!--<li><a href="Make_An_Appointment.php">Make An Appointment</a></li>-->
                                     <!--<li><a href="Success_Stories.php">Success Stories</a></li>-->
