@@ -717,7 +717,7 @@
                                 <div id="tab-settings" class="tab-pane tab_pane fade in active">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="Astha Hospital">
+                                            src="images/Hospital/slider_12.jpg" alt="Astha Hospital">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -739,14 +739,14 @@
                                         concepts have been incorporated in different aspects of the building design.
                                         It offers a convenient location for Patients, their Attendants and Families.
                                     </p>
-                                    <a href="#About_Us.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="About_Us.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;"></a>
                                 </div>
 
                                 <div id="tab-home" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="ICU Section" width="100%">
+                                            src="images/gallery2/nicu.jpg" alt="ICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -770,14 +770,14 @@
                                         Astha Hospital has 16 Bed ICU with Intensive Care and Staff Support.
 
                                     </p>
-                                    <a href="#Intensive_Care_Unit.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="Intensive_Care_Unit.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
                                 <div id="tab-profile" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="NICU Section" width="100%">
+                                            src="images/gallery2/nicu.jpg" alt="NICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -794,14 +794,14 @@
                                         Central Oxygen & Suction facility, Exchange Transfusion with Pulse - Oxymtery,
                                         Syringe Infusion Pump, and Ventilators etc.
                                     </p>
-                                    <a href="#NICU.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="NICU.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
                                 <div id="tab-messages" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="image" width="100%">
+                                            src="images/gallery2/pathology.jpg" alt="image" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -818,7 +818,7 @@
                                         We educate the Patient also about their diseases and test it with our various
                                         medical tools present in our hospital.
                                     </p>
-                                    <a href="#Pathology.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="Pathology.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
