@@ -1277,7 +1277,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/1.jpg" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/18.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1294,7 +1294,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/7.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/17.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1311,7 +1315,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/12.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/19.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1328,7 +1336,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/5.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/20.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1345,7 +1357,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/6.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/21.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1362,7 +1378,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/10.jpg"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/22.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1379,7 +1399,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/9.jpg"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/23.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1396,7 +1420,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
                                         <a href="Gallery.php"><img src="images/Gallery/8.jpg"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/24.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
