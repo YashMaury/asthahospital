@@ -57,7 +57,7 @@
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12">
                                     <p style="text-align: justify; font-size:13.5px; line-height:25px;">
-                                    <img src="images/what-we-do-best-block-bg.jpg" style="width: 100%; height:300px"> <br>
+                                    <img src="images/Gallery/17.jpg" style="width: 100%; height:300px"> <br>
                                       Astha hospital is the first wide ranging Multi and Super-Specialty Hospital of this city, with the mission to provide quality medical and health care. The hospital focuses on super specialties in Neuro-Sciences,
                                       Renal-Sciences, Pediatric Services specially Pediatric Intensive Care and Pediatric and Neonatal Surgery, GI-Diseases, Minimal Access Surgery, Gynaecology and Obstetrics Care and Orthopdeics and Joint Replacement besides the complete range of medical, surgical and allied specialties with special focus on mother & child care. We have hi-tech ultra modern
                                       medical gadgets for diagnosis and treatment with well qualified and experienced consultants and super-specialists.<br><br>
