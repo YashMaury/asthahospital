@@ -12,19 +12,19 @@
 
     <link rel="icon" type="image/png" href="images/fevicon.png">
 
-    <!--<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">-->
+    <!--<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/assets/css/bootstrap.min.css">-->
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/styles.css" />
-    <link rel="stylesheet" href="css/animations.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="assets/css/animations.css" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="css/settings.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="assets/css/settings.min.css" media="screen" />
 
-    <link rel="stylesheet" type="text/css" href="css/slides.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/slides.css" />
     <!-- FONTS -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
-    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">-->
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" />
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/assets/css/font-awesome.min.css">-->
 
     <link
         href='http://fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic'
@@ -39,12 +39,12 @@
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic'>
 
 
-    <link href="css/hover.css" rel="stylesheet" media="all">
+    <link href="assets/css/hover.css" rel="stylesheet" media="all">
     <!-- Owl Carousel Assets -->
 
-    <link href="css/owl.carousel.css" rel="stylesheet">
-    <link href="css/owl.theme.css" rel="stylesheet">
-    <link href="css/preset1.css" rel="stylesheet">
+    <link href="assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="assets/css/owl.theme.css" rel="stylesheet">
+    <link href="assets/css/preset1.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
              <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -114,10 +114,10 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="index.php">
-                            <img src="logo/logoSmall1.png" alt="logo">
+                            <img src="assets/logo/logoSmall1.png" alt="logo">
                         </a>
                         <a href="index.php">
-                            <img src="logo/logoname.png" style="margin-left:-85px; margin-top: 13px;">
+                            <img src="assets/logo/logoname.png" style="margin-left:-85px; margin-top: 13px;">
                         </a>
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

@@ -14,188 +14,11 @@
                                     <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 5 -->
-
-                                    <!-- LAYER NR. 6 -->
-                                    <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1" data-x="60" data-y="12"
-                                        data-hoffset="-10" data-speed="1000" data-start="2900"
-                                        data-easing="Back.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <p style="color: black; font-family: 'Arimo', sans-serif; font-size:32px;">
-                                            Welcome to the Astha Hospital !<br>
-                                            <!-- <span style="color:blue; font-size:26px;"> Tagore Town, Mariahun.</span> -->
-                                    </div>
-                                    <!-- LAYER NR. 7 -->
-
-                                    <!-- LAYER NR. 8 -->
-                                    <div class="tp-caption s1-but customin skewtoright imed-sl1" data-x="300"
-                                        data-y="110" data-hoffset="205" data-speed="1000"
-                                        data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                                        data-start="3900" data-easing="Back.easeOut" data-endspeed="400"
-                                        data-endeasing="Power1.easeIn">
-                                        <a href="#About_Us.php">
-                                            <img src="images/Hospital/readmorebuttonblue.png" style="width:200px;">
-                                        </a>
-                                    </div>
                                 </li>
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
-                                    <!-- LAYER NR. 2 -->
-                                    <div class="tp-caption skewfromright stl imed-sl1" data-x="left" data-y="65"
-                                        data-hoffset="-20" data-speed="1500" data-start="1300"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s2-img2.png" alt="" class="img-responsive">
-                                    </div>
-
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="173"
-                                        data-hoffset="583" data-speed="1400" data-start="1600"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic1.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="143"
-                                        data-hoffset="493" data-speed="1400" data-start="1900"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic2.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="115"
-                                        data-hoffset="408" data-speed="1400" data-start="2200"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic3.png" alt="" class="img-responsive">
-                                    </div>
-
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="89"
-                                        data-hoffset="332" data-speed="1400" data-start="2500"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic4.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="68"
-                                        data-hoffset="268" data-speed="1400" data-start="2800"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic5.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="47"
-                                        data-hoffset="204" data-speed="1400" data-start="3100"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic6.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="222"
-                                        data-hoffset="478" data-speed="1400" data-start="3400"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic7.png" alt="" class="img-responsive">
-                                    </div>
-
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="177"
-                                        data-hoffset="370" data-speed="1400" data-start="3700"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic8.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="140"
-                                        data-hoffset="278" data-speed="1400" data-start="4000"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic9.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="108"
-                                        data-hoffset="198" data-speed="1400" data-start="4300"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic10.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="76"
-                                        data-hoffset="120" data-speed="1400" data-start="4600"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic11.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="292"
-                                        data-hoffset="398" data-speed="1400" data-start="4900"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic12.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="240"
-                                        data-hoffset="294" data-speed="1400" data-start="5200"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic13.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="196"
-                                        data-hoffset="203" data-speed="1400" data-start="5500"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic14.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="158"
-                                        data-hoffset="123" data-speed="1400" data-start="5800"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic15.png" alt="" class="img-responsive">
-                                    </div>
-
-                                    <!-- LAYER NR. 3 -->
-                                    <div class="tp-caption lft stt imed-sl1" data-x="left" data-y="123"
-                                        data-hoffset="51" data-speed="1400" data-start="6100"
-                                        data-easing="Power4.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <img src="images/new-slider/s3-ic16.png" alt="" class="img-responsive">
-                                    </div>
-
-
-
-                                    <!-- LAYER NR. 6 -->
-                                    <div class="tp-caption whitebg-t1 sfr skewtoright imed-sl1" data-x="right"
-                                        data-y="70" data-hoffset="-60" data-speed="1500" data-start="6500"
-                                        data-easing="Back.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <p style="color:yellow; font-family: 'Arimo', sans-serif; font-size:30px;">
-                                            Get all the Medical Facilities<br>under One Roof !</p>
-                                    </div>
-
-
-                                    <!-- LAYER NR. 7 -->
-
-                                    <!-- LAYER NR. 8 -->
-                                    <div class="tp-caption whitebg-t3 sfr skewtoright imed-sl1" data-x="right"
-                                        data-y="170" data-hoffset="-60" data-speed="1500" data-start="7100"
-                                        data-easing="Back.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <p style="color:red; font-family: 'Arimo', sans-serif; font-size:26px;">
-                                            <b> Check our all the Services.</b>
-                                    </div>
-
-
-                                    <!-- LAYER NR. 9 -->
-                                    <div class="tp-caption s1-but customin skewtoright imed-sl1" data-x="820"
-                                        data-y="230" data-hoffset="205" data-speed="1500"
-                                        data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                                        data-start="7400" data-easing="Back.easeOut" data-endspeed="400"
-                                        data-endeasing="Power1.easeIn"><a href="#Intensive_Care_Unit.php">
-                                            <img src="images/new-slider/enquire-now%20(1).png" style="width:180px"></a>
-                                    </div>
-
-
-
-
                                 </li>
 
 
@@ -205,31 +28,6 @@
                                     <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 6 -->
-                                    <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1" data-x="right"
-                                        data-y="100" data-hoffset="-10" data-speed="1000" data-start="2900"
-                                        data-easing="Back.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <p style="color:black; font-family: 'Arimo', sans-serif; font-size:26px;">
-
-                                            <b> Experience the Best Consultants of the City !</b>
-                                        <p>
-                                    </div>
-                                    <!-- LAYER NR. 7 -->
-                                    <div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1" data-x="right"
-                                        data-y="160" data-hoffset="-60" data-speed="1000" data-start="3400"
-                                        data-easing="Back.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
-                                        <p style="color:red; font-family: 'Arimo', sans-serif; font-size:22px;">
-                                            Check our all the Departments under one Roof !</p>
-                                    </div>
-                                    <!-- LAYER NR. 8 -->
-                                    <div class="tp-caption s1-but customin skewtoright imed-sl1" data-x="820"
-                                        data-y="230" data-hoffset="205" data-speed="1000"
-                                        data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                                        data-start="3900" data-easing="Back.easeOut" data-endspeed="400"
-                                        data-endeasing="Power1.easeIn">
-                                        <a href="#Departments.php">
-                                            <img src="images/new-slider/read-more-button-red.png"
-                                                style="width:250px; height:75px;"></a>
-                                    </div>
                                 </li>
 
                                 <li data-transition="papercut" data-slotamount="7">
@@ -717,7 +515,7 @@
                                 <div id="tab-settings" class="tab-pane tab_pane fade in active">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="Astha Hospital">
+                                            src="images_librery/1.jpg" alt="Astha Hospital">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -739,14 +537,14 @@
                                         concepts have been incorporated in different aspects of the building design.
                                         It offers a convenient location for Patients, their Attendants and Families.
                                     </p>
-                                    <a href="#About_Us.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="About_Us.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;"></a>
                                 </div>
 
                                 <div id="tab-home" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="ICU Section" width="100%">
+                                            src="images/gallery2/nicu.jpg" alt="ICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -770,14 +568,14 @@
                                         Astha Hospital has 16 Bed ICU with Intensive Care and Staff Support.
 
                                     </p>
-                                    <a href="#Intensive_Care_Unit.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="Intensive_Care_Unit.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
                                 <div id="tab-profile" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="NICU Section" width="100%">
+                                            src="images/gallery2/nicu.jpg" alt="NICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -794,14 +592,14 @@
                                         Central Oxygen & Suction facility, Exchange Transfusion with Pulse - Oxymtery,
                                         Syringe Infusion Pump, and Ventilators etc.
                                     </p>
-                                    <a href="#NICU.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="NICU.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
                                 <div id="tab-messages" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/hospital.png" alt="image" width="100%">
+                                            src="images/gallery2/pathology.jpg" alt="image" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -818,7 +616,7 @@
                                         We educate the Patient also about their diseases and test it with our various
                                         medical tools present in our hospital.
                                     </p>
-                                    <a href="#Pathology.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="Pathology.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
@@ -957,7 +755,7 @@
                 <div class="row">
                     <h3 class="secheadng2">Our Hospital Specialties</h3>
                     <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 padding_remove">
-                        <img alt="" src="images/what-we-do-best.jpg" alt="image" class="thumbnail" width="100%">
+                        <img alt="" src="images/gallery2/ot4.jpg" alt="image" class="thumbnail" width="100%">
                     </div>
                     <div class="col-sm-12 col-xs-12 col-md-8 col-lg-8">
                         <div class="row">
@@ -973,7 +771,7 @@
                                     </div>
 
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Oxygen_Plant.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Oxygen_Plant.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -985,7 +783,7 @@
                                         Water Treatment Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Water_Treatment.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Water_Treatment.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -997,7 +795,7 @@
                                         Solar Panel Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Solar_Panel.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Solar_Panel.php">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1011,7 +809,7 @@
                                         Power Back Up Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Power_BackUp_Plant.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Power_BackUp_Plant.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1023,7 +821,7 @@
                                         Operation Theater Unit
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Operation_Unit.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Operation_Unit.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1035,7 +833,7 @@
                                         High End Dialysis Unit
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Dialysis_Unit.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Dialysis_Unit.php">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1227,7 +1025,7 @@
                                         Diabetes and care of those requiring renal replacement therapy, including
                                         dialysis and renal transplantation.
                                     </p>
-                                    <a href="#Nephrology_Department.php">
+                                    <a href="Nephrology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1248,7 +1046,7 @@
                                         often affect the other. Thus, a major spectrum of the conditions managed in
                                         urology exists under the domain of genitourinary disorders.
                                     </p>
-                                    <a href="#Urology_Department.php">
+                                    <a href="Urology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1273,7 +1071,7 @@
                                         • Various Blocks to treat different types of Pain.<br>
                                         • Neuralgias and Neuropathic Pain including that of due to Diabetes.
                                     </p>
-                                    <a href="#Pain_Management.php">
+                                    <a href="Pain_Management.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1297,7 +1095,7 @@
                                         Our specialized team provides advanced fertility solutions to couples struggling
                                         to achieve pregnancy.
                                     </p>
-                                    <a href="#Gynecology_Department.php">
+                                    <a href="Gynecology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1321,7 +1119,7 @@
                                         smaller amounts of anesthesia, less pain, and minimal scarring.
 
                                     </p>
-                                    <a href="#General_Access_Minimal_Department.php">
+                                    <a href="General_Access_Minimal_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-15px;">
                                     </a>
@@ -1339,7 +1137,7 @@
                                         Anesthesia enables the painless performance of medical procedures that would
                                         cause severe or intolerable pain to an unanesthetized Patient.
                                     </p>
-                                    <a href="#Anesthesia_Department.php">
+                                    <a href="Anesthesia_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1387,7 +1185,7 @@
                                                 <h5><strong>Surabhi Jain,</strong>&nbsp; Mariahun</h5>
                                             </div>
                                         </div>
-                                        <a href="#Testimonials.php">
+                                        <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1419,7 +1217,7 @@
                                                 <h5><strong>Amit Saini </strong>Mariahun</h5>
                                             </div>
                                         </div>
-                                        <a href="#Testimonials.php">
+                                        <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1451,7 +1249,7 @@
                                                 <h5><strong>Dr.Doctor Name </strong>&nbsp; Mariahun</h5>
                                             </div>
                                         </div>
-                                        <a href="#Testimonials.php">
+                                        <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1471,7 +1269,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <h3 class="secheadng3">Our Gallery
-                        <a href="#Gallery.php" style="float:right; font-size: 15px;">View All</a>
+                        <a href="Gallery.php" style="float:right; font-size: 15px;">View All</a>
                     </h3>
 
                     <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
@@ -1479,7 +1277,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/1.jpg" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/18.jpg" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1496,12 +1294,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/7.jpg" alt="Owl Image"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/7.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/17.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Reception Area of Hospital</p>
                                                 <p>You Can Make an Enquiry Here.</p>
                                             </li>
@@ -1513,12 +1315,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/12.jpg" alt="Owl Image"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/12.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/19.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Lobby Area</p>
                                                 <p>Patient & Visitors Sitting Area</p>
                                             </li>
@@ -1530,12 +1336,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/5.jpg" alt="Owl Image"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/5.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/20.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned 8 Bedded NICU Ward</p>
                                                 <p>Pediatric Surgery Department</p>
                                             </li>
@@ -1547,7 +1357,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/6.jpg" alt="Owl Image"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/6.jpg" alt="Owl Image"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/21.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1564,12 +1378,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/10.jpg"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/10.jpg"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/22.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Floor Wise Area</p>
                                                 <p>Floor Reception View</p>
                                             </li>
@@ -1581,12 +1399,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/9.jpg"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/9.jpg"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/23.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>General Ward</p>
 
                                             </li>
@@ -1598,12 +1420,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="#Gallery.php"><img src="images/Gallery/8.jpg"
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/8.jpg"
+=======
+                                        <a href="#Gallery.php"><img src="images/Gallery/24.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Semi - Private Room</p>
                                                 <p>Fully - Air Conditioned</p>
                                             </li>

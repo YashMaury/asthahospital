@@ -58,13 +58,13 @@
                                 <div class="col-sm-12 col-md-12 col-lg-12">
                                     <p style="text-align: justify;font-size:13.5px; color:black; line-height:25px;">
                                       
-                                      Welcome to <a href="#">Aastha Hospital</a> Jaunpur
-About Aastha Hospital
-Aastha as the name suggests means faith
+                                      Welcome to <a href="#">Astha Hospital</a> Jaunpur
+About Astha Hospital
+Astha as the name suggests means faith
 We aim to provide quality surgical care and management at a reasonable cost.
-Aastha Hospital Jaunpur is a state-of-the-art multi-specialty facility with more than 50 beds, state-of-the-art technology, providing quality healthcare services in the first phase. The hospital has been the most promising facility for the surrounding community since its inception. The modern infrastructure complies with all statutory, safety guidelines and meets the quality standards as per NABH. <br>
+Astha Hospital Jaunpur is a state-of-the-art multi-specialty facility with more than 50 beds, state-of-the-art technology, providing quality healthcare services in the first phase. The hospital has been the most promising facility for the surrounding community since its inception. The modern infrastructure complies with all statutory, safety guidelines and meets the quality standards as per NABH. <br>
 We believe that the most important aspect of healthcare is the caring human touch and this is reflected in our motto. More than health care, human care. <br>
-Aastha was started in 2020 in one of the best locations in the locality with a well qualified team of doctors specialized in all treatment modalities. It is Thane's first dedicated plastic and aesthetic surgery center. It was started because a dire need was felt to enhance the look of the already beautiful society. Here cosmetic surgical and non-surgical procedures are perform   with minimal hospital stay, less post operative pain, quicker return to activity and better leadership.
+Astha was started in 2020 in one of the best locations in the locality with a well qualified team of doctors specialized in all treatment modalities. It is Thane's first dedicated plastic and aesthetic surgery center. It was started because a dire need was felt to enhance the look of the already beautiful society. Here cosmetic surgical and non-surgical procedures are perform   with minimal hospital stay, less post operative pain, quicker return to activity and better leadership.
                                     </p>
                                 </div>
                             </div>
@@ -78,7 +78,7 @@ Aastha was started in 2020 in one of the best locations in the locality with a w
                                     </p>
                                 </div>
                                 <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <img src="images/Astha.jpg" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
+                                    <img src="images/Gallery/dhiya.jpeg" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
                                     <h4><strong style="font-size:17px">Administration</strong></h4>
                                     <p style="text-align: justify; font-size:13.5px; color:black;">
                                         The administrative structure and the allocation of resources are designed in such a way that it is completely patient centric. Conforming to the very best medical practises around the world and at the same time making sure innovative methods are employed wherever necessary and applicable. 

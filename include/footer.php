@@ -101,23 +101,23 @@
 </div>
 
 
-<script src="js/jquery-1.11.3.min.js"></script>
-<script src="js/jquery.min.js"></script>
+<script src="assets/js/jquery-1.11.3.min.js"></script>
+<script src="assets/js/jquery.min.js"></script>
 
-<script type="text/javascript" src="js/css3-animate-it.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>
-<script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
-<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="js/jquery.scrollUp.min.js"></script>
-<script type="text/javascript" src="js/jquery.sticky.min.js"></script>
-<script type="text/javascript" src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/jquery.flexisel.min.js"></script>
-<script type="text/javascript" src="js/jquery.imedica.min.js"></script>
-<script type="text/javascript" src="js/custom-imedicajs.min.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript" src="assets/js/css3-animate-it.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.scrollUp.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.sticky.min.js"></script>
+<script type="text/javascript" src="assets/js/wow.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.flexisel.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.imedica.min.js"></script>
+<script type="text/javascript" src="assets/js/custom-imedicajs.min.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
 
-<script src="js/owl.carousel.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
 <script type='text/javascript'>
     $(window).load(function () {
         $('#loader-overlay').fadeOut(3000);
