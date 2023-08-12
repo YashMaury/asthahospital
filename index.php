@@ -1025,7 +1025,7 @@
                                         Diabetes and care of those requiring renal replacement therapy, including
                                         dialysis and renal transplantation.
                                     </p>
-                                    <a href="#Nephrology_Department.php">
+                                    <a href="Nephrology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1046,7 +1046,7 @@
                                         often affect the other. Thus, a major spectrum of the conditions managed in
                                         urology exists under the domain of genitourinary disorders.
                                     </p>
-                                    <a href="#Urology_Department.php">
+                                    <a href="Urology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1071,7 +1071,7 @@
                                         • Various Blocks to treat different types of Pain.<br>
                                         • Neuralgias and Neuropathic Pain including that of due to Diabetes.
                                     </p>
-                                    <a href="#Pain_Management.php">
+                                    <a href="Pain_Management.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1095,7 +1095,7 @@
                                         Our specialized team provides advanced fertility solutions to couples struggling
                                         to achieve pregnancy.
                                     </p>
-                                    <a href="#Gynecology_Department.php">
+                                    <a href="Gynecology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1119,7 +1119,7 @@
                                         smaller amounts of anesthesia, less pain, and minimal scarring.
 
                                     </p>
-                                    <a href="#General_Access_Minimal_Department.php">
+                                    <a href="General_Access_Minimal_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-15px;">
                                     </a>
@@ -1137,7 +1137,7 @@
                                         Anesthesia enables the painless performance of medical procedures that would
                                         cause severe or intolerable pain to an unanesthetized Patient.
                                     </p>
-                                    <a href="#Anesthesia_Department.php">
+                                    <a href="Anesthesia_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1185,7 +1185,7 @@
                                                 <h5><strong>Surabhi Jain,</strong>&nbsp; Mariahun</h5>
                                             </div>
                                         </div>
-                                        <a href="#Testimonials.php">
+                                        <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1217,7 +1217,7 @@
                                                 <h5><strong>Amit Saini </strong>Mariahun</h5>
                                             </div>
                                         </div>
-                                        <a href="#Testimonials.php">
+                                        <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1249,7 +1249,7 @@
                                                 <h5><strong>Dr.Doctor Name </strong>&nbsp; Mariahun</h5>
                                             </div>
                                         </div>
-                                        <a href="#Testimonials.php">
+                                        <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1269,7 +1269,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <h3 class="secheadng3">Our Gallery
-                        <a href="#Gallery.php" style="float:right; font-size: 15px;">View All</a>
+                        <a href="Gallery.php" style="float:right; font-size: 15px;">View All</a>
                     </h3>
 
                     <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
@@ -1294,12 +1294,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/7.jpg" alt="Owl Image"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/17.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Reception Area of Hospital</p>
                                                 <p>You Can Make an Enquiry Here.</p>
                                             </li>
@@ -1311,12 +1315,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/12.jpg" alt="Owl Image"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/19.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Lobby Area</p>
                                                 <p>Patient & Visitors Sitting Area</p>
                                             </li>
@@ -1328,12 +1336,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/5.jpg" alt="Owl Image"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/20.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned 8 Bedded NICU Ward</p>
                                                 <p>Pediatric Surgery Department</p>
                                             </li>
@@ -1345,7 +1357,11 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/6.jpg" alt="Owl Image"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/21.jpg" alt="Owl Image"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1362,12 +1378,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/10.jpg"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/22.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Floor Wise Area</p>
                                                 <p>Floor Reception View</p>
                                             </li>
@@ -1379,12 +1399,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/9.jpg"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/23.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>General Ward</p>
 
                                             </li>
@@ -1396,12 +1420,16 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
+<<<<<<< HEAD
+                                        <a href="Gallery.php"><img src="images/Gallery/8.jpg"
+=======
                                         <a href="#Gallery.php"><img src="images/Gallery/24.jpg"
+>>>>>>> 6aaf91baee2849f3fe41c42c7fa964b26ba2ddf3
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Semi - Private Room</p>
                                                 <p>Fully - Air Conditioned</p>
                                             </li>
