@@ -38,7 +38,7 @@
                                 </li>
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 2 -->
                                     <div class="tp-caption skewfromright stl imed-sl1" data-x="left" data-y="65"
