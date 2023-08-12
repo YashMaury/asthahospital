@@ -820,7 +820,7 @@ p {
             transition: all .5s ease 0s
         }
 
-        .icon-box-11 {
+        .icon-box-11:hover {
             background: url("../images/Hospital/Hospital_Oxygen_Pant1.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s

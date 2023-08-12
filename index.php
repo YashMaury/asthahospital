@@ -957,7 +957,7 @@
                 <div class="row">
                     <h3 class="secheadng2">Our Hospital Specialties</h3>
                     <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 padding_remove">
-                        <img alt="" src="images/what-we-do-best.jpg" alt="image" class="thumbnail" width="100%">
+                        <img alt="" src="images/gallery2/ot4.jpg" alt="image" class="thumbnail" width="100%">
                     </div>
                     <div class="col-sm-12 col-xs-12 col-md-8 col-lg-8">
                         <div class="row">
@@ -973,7 +973,7 @@
                                     </div>
 
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Oxygen_Plant.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Oxygen_Plant.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -985,7 +985,7 @@
                                         Water Treatment Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Water_Treatment.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Water_Treatment.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -997,7 +997,7 @@
                                         Solar Panel Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Solar_Panel.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Solar_Panel.php">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1011,7 +1011,7 @@
                                         Power Back Up Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Power_BackUp_Plant.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Power_BackUp_Plant.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1023,7 +1023,7 @@
                                         Operation Theater Unit
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Operation_Unit.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Operation_Unit.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1035,7 +1035,7 @@
                                         High End Dialysis Unit
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="#Dialysis_Unit.php">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="Dialysis_Unit.php">Read More</a></div>
                                 </div>
                             </div>
                         </div>
