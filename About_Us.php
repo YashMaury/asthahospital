@@ -78,7 +78,7 @@ Astha was started in 2020 in one of the best locations in the locality with a we
                                     </p>
                                 </div>
                                 <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <img src="images/Astha.jpg" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
+                                    <img src="images/Gallery/dhiya.jpeg" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
                                     <h4><strong style="font-size:17px">Administration</strong></h4>
                                     <p style="text-align: justify; font-size:13.5px; color:black;">
                                         The administrative structure and the allocation of resources are designed in such a way that it is completely patient centric. Conforming to the very best medical practises around the world and at the same time making sure innovative methods are employed wherever necessary and applicable. 
