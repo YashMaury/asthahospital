@@ -11,7 +11,7 @@
                                 <!-- THE BOXSLIDE EFFECT EXAMPLES  WITH LINK ON THE MAIN SLIDE EXAMPLE -->
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 5 -->
 
@@ -202,7 +202,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 6 -->
                                     <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1" data-x="right"
@@ -235,7 +235,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_2.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
 
                                     <!-- LAYER NR. 5 -->
@@ -280,7 +280,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
 
                                     <!-- LAYER NR. 5 -->
