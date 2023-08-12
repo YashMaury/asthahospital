@@ -515,7 +515,7 @@
                                 <div id="tab-settings" class="tab-pane tab_pane fade in active">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images_librery/1.jpg" alt="Astha Hospital">
+                                            src="images/Hospital/34.jpeg" alt="Astha Hospital">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
