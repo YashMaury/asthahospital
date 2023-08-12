@@ -54,12 +54,12 @@
                     <!-- train section -->
                     <div class="bhoechie-tab-content active">
                         <div class="col-sm-12 col-md-12 col-lg-12">
-                           <h4 style="font-size:18px; color:red; border-bottom: 2px solid black; padding-bottom: 5px;">About Logo !</h4> 
+                           <h4 style="font-size:18px; color:red; border-bottom: 2px solid black; padding-bottom: 5px;">About Astha hospital Logo !</h4> 
                             <div class="row">
                                 <div class="col-sm-3 col-md-3 col-lg-3">
                                    
                                      
-                                      <img src="images/logo.png" alt="image" class="thumbnail">
+                                      <img src="images/ashtha logo.png" alt="image"  >
                                     
                                 </div>
                                 <div class="col-sm-9 col-md-9 col-lg-9">
@@ -68,7 +68,7 @@
                                     <p style="text-align: justify; font-size: 13.5px;">
                                        
                                         Astha was a mythical bird of Ancient Egypt which reputedly burned every 500 Years and rose rejuvenated from its Ashes with renewed youth to live another cycle. This word is used as a symbolic for a person or thing who is regarded as uniquely remarkable in some respect. 
-Similarly, our Hospital is named as Astha because it is a never ending organization which will exist and run successfully always. Like the Astha Bird, it will take re-birth again and again with a much more enthusiasm in better Hospital. 
+Similarly, our Hospital is named as Astha because it is a never ending organization which will exist and run successfully always. Like the Astha Bird, it will take re-birth again and again with a much more enthusiasm in better Hospital.
                                         
                                     </p>
                                 </div>
