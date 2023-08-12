@@ -83,7 +83,7 @@
                                         <div class="carousel-inner ach_slider">
                                             
                                             <div class="active item" data-slide-number="0">
-                                                <img src="images/Gallery/ICU_Page2.jpg" style="width:100%; height: 350px;">
+                                                <img src="images/Gallery2/nicu.jpg" style="width:100%; height: 350px;">
                                             </div>
                                             
                                             <div class="item" data-slide-number="1">
