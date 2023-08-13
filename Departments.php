@@ -27,7 +27,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Neurosurgery_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Neuro Surgery" src="images/Department/Neurosurgery_icon.png">
+                                <img class="uk-border-circle" alt="Neuro Surgery" src="images/Department/depart/neuro-surgery 3.jpg" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Neuro - Surgery</h4>
@@ -39,7 +39,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Gastero_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Gasteroenterology" src="images/Department/Gasterenterology_icon.jpg">
+                                <img class="uk-border-circle" alt="Gasteroenterology" src="images/Department/depart/gastroenterology10.jpg"   >
                             </span>
                         </a>
                         <h4>Gastroenterology</h4>
@@ -51,7 +51,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Pediatric_Surgery.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Pediatric & its Surgery" src="images/Department/Pediatric_icon.jpg">
+                                <img class="uk-border-circle" alt="Pediatric & its Surgery" src="images/Department/depart/pediatric-surgery1.jpg">
                             </span>
                         </a>
                         <h4>Pediatric Surgery</h4>
@@ -63,7 +63,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Nephrology_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Nephrology Department" src="images/Department/Nephrology_icon.png">
+                                <img class="uk-border-circle" alt="Nephrology Department" src="images/Department/depart/iStock-11569910771.jpg">
                             </span>
                         </a>
                         <h4>Nephrology</h4>
@@ -75,7 +75,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Pediatric_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Pediatric" src="images/Department/Pediatric_icon.jpg">
+                                <img class="uk-border-circle" alt="Pediatric" src="images/Department/depart/istockphoto-508509000-612x61.jpg">
                             </span>
                         </a>
                         <h4>Pediatric & Neonatal</h4>
@@ -87,7 +87,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                          <a href="Urology_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Urology Department" src="images/Department/Urology_icon.png">
+                                <img class="uk-border-circle" alt="Urology Department" src="images/Department/depart/euro1.jpg" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Urology</h4>
@@ -99,7 +99,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Pain_Management.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Pain Management" src="images/Department/Pain_Managemet_Icon.png">
+                                <img class="uk-border-circle" alt="Pain Management" src="images/Department/depart/pain-management.jpg" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Pain Management</h4>
@@ -111,7 +111,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Gynecology_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Gynaecology Department" src="images/Department/Gynecology_icon.jpg">
+                                <img class="uk-border-circle" alt="Gynaecology Department" src="images/Department/depart/ObstetricsGynaecology-services.jpg" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Gynaecology and Obstetrics</h4>
@@ -123,7 +123,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="General_Access_Minimal_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Minimal Access Surgery Departments" src="images/Department/ENT_Icon.jpg">
+                                <img class="uk-border-circle" alt="Minimal Access Surgery Departments" src="images/Department/depart/Minimally-invasive-surgery1.jpg">
                             </span>
                         </a>
                         <h4>Minimal Access Surgery</h4>
@@ -135,7 +135,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Anesthesia_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Anaesthesia Departments" src="images/Department/Anesthesia_icon.png">
+                                <img class="uk-border-circle" alt="Anaesthesia Departments" src="images/Department/depart/images1.jpg">
                             </span>
                         </a>
                         <h4>Anaesthesia & Critical Care Unit</h4>
@@ -147,7 +147,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Plastic_Surgery_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Plastic Surgery Departments" src="images/Department/plastic-surgery-icon.jpg">
+                                <img class="uk-border-circle" alt="Plastic Surgery Departments" src="images/Department/depart/20567751.jpg">
                             </span>
                         </a>
                         <h4>Plastic Surgery</h4>
@@ -159,7 +159,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Cardiology_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Cardiology Departments" src="images/Department/cardiology_icon.jpg">
+                                <img class="uk-border-circle" alt="Cardiology Departments" src="images/Department/depart/Cardiology_hero_1.jpg">
                             </span>
                         </a>
                         <h4>Cardiology</h4>
@@ -171,7 +171,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Oncology_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Oncology Departments" src="images/Department/Oncology_icon.jpg">
+                                <img class="uk-border-circle" alt="Oncology Departments" src="images/Department/depart/oncology.jfif" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Oncology</h4>
@@ -183,7 +183,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Dental_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Dental Departments" src="images/Department/Dental_Icon.jpg">
+                                <img class="uk-border-circle" alt="Dental Departments" src="images/Department/depart/images.jpg" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Dental</h4>
@@ -195,7 +195,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Psychiatry_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Psychiatry Departments" src="images/Department/Psychiatry_Icon.jpg">
+                                <img class="uk-border-circle" alt="Psychiatry Departments" src="images/Department/depart/Psychiatry.jpg">
                             </span>
                         </a>
                         <h4>Psychiatry</h4>
@@ -207,7 +207,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Dermatology_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Dermatology Department" src="images/Department/Dermatology_Icon.jpg">
+                                <img class="uk-border-circle" alt="Dermatology Department" src="images/Department/depart/dermatology-skin1.jpg">
                             </span>
                         </a>
                         <h4>Dermatology</h4>
@@ -219,7 +219,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="PediEndri_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Pead. Endocrinology" src="images/Department/PedEndioc_Icon.jpg">
+                                <img class="uk-border-circle" alt="Pead. Endocrinology" src="images/Department/depart/pedia-cardio1.jpg" style="height: 90px;" >
                             </span>
                         </a>
                         <h4>Pead. Endocrinology</h4>
@@ -231,7 +231,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Ortho_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Orthopedics Department" src="images/Department/Ortho_Icon1.jpg">
+                                <img class="uk-border-circle" alt="Orthopedics Department" src="images/Department/depart/12.png">
                             </span>
                         </a>
                         <h4>Orthopedics</h4>
@@ -243,7 +243,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="ENT_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="ENT Department" src="images/Department/ENT_Icon.jpg">
+                                <img class="uk-border-circle" alt="ENT Department" src="images/Department/ENT_Icon.jpg" style="height: 90px;" >
                             </span>
                         </a>
                         <h4>ENT</h4>
@@ -255,7 +255,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Medicine_Department.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Medicine Departments" src="images/Department/Medicine_Icon.jpg">
+                                <img class="uk-border-circle" alt="Medicine Departments" src="images/Department/depart/rajasthans-free-medicine-scheme-secures-top-rank1.jpg">
                             </span>
                         </a>
                         <h4>Medicine</h4>
@@ -267,7 +267,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Chest_Medicine.html">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Chest Medicine" src="images/Department/Chest_Medicine_Icon1.jpg">
+                                <img class="uk-border-circle" alt="Chest Medicine" src="images/Department/depart/2019-12-061.jpg">
                             </span>
                         </a>
                          <h4>Chest Medicine</h4>
