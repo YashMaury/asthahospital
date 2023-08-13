@@ -85,9 +85,6 @@
                                                 <img src="images/Gallery/PICU_Page.jpg">
                                             </div>
 
-
-                                           
-
                                         </div><!-- Carousel nav -->
                                         <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
                                             <span class="glyphicon glyphicon-chevron-left"></span>                                       
