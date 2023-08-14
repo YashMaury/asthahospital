@@ -1867,6 +1867,7 @@ p {
             color: #000
         }
 
+        
         .boxme-trans2:hover {
             color: #5e6772;
             background: #fff;
@@ -2025,5 +2026,14 @@ p {
 
             .icon-box-16:hover {
                 background-size: 100%
+            }
+        }
+
+        @media only screen and (min-width:768px) and (max-width:1024px) {
+            .boxme-trans1{
+                width: 100%;
+            }
+            .boxme-trans2{
+                width: 100%;
             }
         }
