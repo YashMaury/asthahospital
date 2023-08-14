@@ -195,7 +195,7 @@
                     <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1b">
                         <a href="Psychiatry_Department.php">
                             <span class="hi-icon">
-                                <img class="uk-border-circle" alt="Psychiatry Departments" src="images/Department/depart/Psychiatry.jpg">
+                                <img class="uk-border-circle" alt="Psychiatry Departments" src="images/Department/depart/Psychiatry-1.jpg" style="height: 90px;">
                             </span>
                         </a>
                         <h4>Psychiatry</h4>
