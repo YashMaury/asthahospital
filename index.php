@@ -11,13 +11,13 @@
                                 <!-- THE BOXSLIDE EFFECT EXAMPLES  WITH LINK ON THE MAIN SLIDE EXAMPLE -->
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="assets/img/Hospital/slider_11.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 5 -->
                                 </li>
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="assets/img/Hospital/slider_12.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                 </li>
 
@@ -25,7 +25,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="assets/img/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 6 -->
                                 </li>
@@ -33,7 +33,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_2.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="assets/img/Hospital/slider_2.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
 
                                     <!-- LAYER NR. 5 -->
@@ -78,7 +78,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="assets/img/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
 
                                     <!-- LAYER NR. 5 -->
@@ -483,20 +483,20 @@
                         data-wow-delay="0.5s">
                         <h4><!--<i class="fa fa-hospital-o" aria-hidden="true"></i>-->Our Medical Services</h4>
                         <ul>
-                            <li><i class="fa fa-ambulance fontcolor" aria-hidden="true"></i><a href="#">Emergency
+                            <li><i class="fa fa-ambulance fontcolor" aria-hidden="true"></i><a>Emergency
                                     Services</a></li>
-                            <li><i class="fa fa-heart fontcolor" aria-hidden="true"></i><a href="#">Pathology
+                            <li><i class="fa fa-heart fontcolor" aria-hidden="true"></i><a>Pathology
                                     Services</a></li>
-                            <li><i class="fa fa-stethoscope fontcolor" aria-hidden="true"></i><a href="#">Vaccination
+                            <li><i class="fa fa-stethoscope fontcolor" aria-hidden="true"></i><a>Vaccination
                                     Facility</a></li>
-                            <li><i class="fa fa-medkit fontcolor" aria-hidden="true"></i><a href="#">Physiotherapy
+                            <li><i class="fa fa-medkit fontcolor" aria-hidden="true"></i><a>Physiotherapy
                                     Unit</a></li>
-                            <li><i class="fa fa-lemon-o fontcolor" aria-hidden="true"></i><a href="#">Pharmacy</a></li>
-                            <li><i class="fa fa-h-square fontcolor" aria-hidden="true"></i><a href="#">Helpline
+                            <li><i class="fa fa-lemon-o fontcolor" aria-hidden="true"></i><a>Pharmacy</a></li>
+                            <li><i class="fa fa-h-square fontcolor" aria-hidden="true"></i><a>Helpline
                                     Services</a></li>
-                            <li><i class="fa fa-medkit fontcolor" aria-hidden="true"></i><a href="#">Health Insurance
+                            <li><i class="fa fa-medkit fontcolor" aria-hidden="true"></i><a>Health Insurance
                                     Facility</a></li>
-                            <li><i class="fa fa-ambulance fontcolor" aria-hidden="true"></i><a href="#">Ambulance
+                            <li><i class="fa fa-ambulance fontcolor" aria-hidden="true"></i><a>Ambulance
                                     Services with Transport Unit </a></li>
                         </ul>
                     </div>
@@ -515,7 +515,7 @@
                                 <div id="tab-settings" class="tab-pane tab_pane fade in active">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/34.jpeg" alt="Astha Hospital">
+                                            src="assets/img/Hospital/34.jpeg" alt="Astha Hospital">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -537,7 +537,7 @@
                                         concepts have been incorporated in different aspects of the building design.
                                         It offers a convenient location for Patients, their Attendants and Families.
                                     </p>
-                                    <a href="About_Us.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="About_Us.php"><img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;"></a>
                                 </div>
 
@@ -568,7 +568,7 @@
                                         Astha Hospital has 16 Bed ICU with Intensive Care and Staff Support.
 
                                     </p>
-                                    <a href="Intensive_Care_Unit.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="Intensive_Care_Unit.php"><img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
@@ -592,7 +592,7 @@
                                         Central Oxygen & Suction facility, Exchange Transfusion with Pulse - Oxymtery,
                                         Syringe Infusion Pump, and Ventilators etc.
                                     </p>
-                                    <a href="NICU.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="NICU.php"><img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
@@ -616,7 +616,7 @@
                                         We educate the Patient also about their diseases and test it with our various
                                         medical tools present in our hospital.
                                     </p>
-                                    <a href="Pathology.php"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="Pathology.php"><img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
@@ -662,7 +662,7 @@
                                 </div>
                                 <div class="col-md-12 col-xs-12 padding_remove tab_inner">
                                     <div class="col-md-4 col-xs-4 padding_remove">
-                                        <!-- <img class="img-responsive pull-left" src="images/Hospital/Hospital_Small.png"
+                                        <!-- <img class="img-responsive pull-left" src="assets/img/Hospital/Hospital_Small.png"
                                             alt=""> -->
                                     </div>
                                     <div class="col-md-8 col-xs-8">
@@ -862,7 +862,7 @@
                                         </div>
 
                                         <div class="item" data-slide-number="1">
-                                            <img src="images/Hospital/Pediatric_Department.png">
+                                            <img src="assets/img/Hospital/Pediatric_Department.png">
                                         </div>
 
                                         <div class="item" data-slide-number="3">
@@ -932,7 +932,7 @@
                                         Department in this zone.
                                     </p>
                                     <a href="#Neurosurgery_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -955,7 +955,7 @@
 
                                     </p>
                                     <a href="#Pediatric_Surgery.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
 
@@ -981,7 +981,7 @@
 
                                     </p>
                                     <a href="#Pediatric_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -1005,7 +1005,7 @@
                                         • Endoscopic Retrograde Cholangiopancretography (ERCP) Capsule Endoscope
                                     </p>
                                     <a href="#Gastero_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -1026,7 +1026,7 @@
                                         dialysis and renal transplantation.
                                     </p>
                                     <a href="Nephrology_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -1047,7 +1047,7 @@
                                         urology exists under the domain of genitourinary disorders.
                                     </p>
                                     <a href="Urology_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -1072,7 +1072,7 @@
                                         • Neuralgias and Neuropathic Pain including that of due to Diabetes.
                                     </p>
                                     <a href="Pain_Management.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -1096,7 +1096,7 @@
                                         to achieve pregnancy.
                                     </p>
                                     <a href="Gynecology_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
 
@@ -1120,7 +1120,7 @@
 
                                     </p>
                                     <a href="General_Access_Minimal_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-15px;">
                                     </a>
                                 </div>
@@ -1138,7 +1138,7 @@
                                         cause severe or intolerable pain to an unanesthetized Patient.
                                     </p>
                                     <a href="Anesthesia_Department.php">
-                                        <img src="images/Hospital/readmorebuttonblue.png"
+                                        <img src="assets/img/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
                                 </div>
@@ -1165,7 +1165,7 @@
                                             <div class="col-sm-2 col-md-2 col-lg-2">
                                                 <div class="student">
                                                     <div class="photo">
-                                                        <img src="images/Hospital/Testimonial.jpg"
+                                                        <img src="assets/img/Hospital/Testimonial.jpg"
                                                             style="width: 100%; border-radius: 100%;vertical-align: middle;height: auto; max-width: 100%;"
                                                             class="round-image">
                                                     </div>
@@ -1187,7 +1187,7 @@
                                         </div>
                                         <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
-                                                src="images/Hospital/readmorebuttonblue.png">
+                                                src="assets/img/Hospital/readmorebuttonblue.png">
                                         </a>
                                     </div>
                                 </div>
@@ -1198,7 +1198,7 @@
                                             <div class="col-sm-2 col-md-2 col-lg-2">
                                                 <div class="student">
                                                     <div class="photo">
-                                                        <img src="images/Hospital/Testimonial.jpg"
+                                                        <img src="assets/img/Hospital/Testimonial.jpg"
                                                             style="width: 100%; border-radius: 100%;vertical-align: middle;height: auto; max-width: 100%;"
                                                             class="round-image">
                                                     </div>
@@ -1219,7 +1219,7 @@
                                         </div>
                                         <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
-                                                src="images/Hospital/readmorebuttonblue.png">
+                                                src="assets/img/Hospital/readmorebuttonblue.png">
                                         </a>
                                     </div>
                                 </div>
@@ -1230,7 +1230,7 @@
                                             <div class="col-sm-2 col-md-2 col-lg-2">
                                                 <div class="student">
                                                     <div class="photo">
-                                                        <img src="images/Hospital/Testimonial.jpg"
+                                                        <img src="assets/img/Hospital/Testimonial.jpg"
                                                             style="width: 100%; border-radius: 100%;vertical-align: middle;height: auto; max-width: 100%;"
                                                             class="round-image">
                                                     </div>
@@ -1251,7 +1251,7 @@
                                         </div>
                                         <a href="Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
-                                                src="images/Hospital/readmorebuttonblue.png">
+                                                src="assets/img/Hospital/readmorebuttonblue.png">
                                         </a>
                                     </div>
                                 </div>

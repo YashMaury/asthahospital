@@ -822,38 +822,38 @@ p {
             transition: all .5s ease 0s
         }
 
-        .icon-box-11:hover {
-            background: url("../images/Hospital/Hospital_Oxygen_Pant1.jpg") no-repeat scroll 0 0;
+        .icon-box-11 {
+            background: url("../img/Hospital/Hospital_Oxygen_Pant1.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s
         }
 
-        .icon-box-12:hover {
-            background: url("../images/Hospital/Water_Treatment.jpg") no-repeat scroll 0 0;
+        .icon-box-12 {
+            background: url("../img/Hospital/Water_Treatment.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s
         }
 
-        .icon-box-13:hover {
-            background: url("../images/Hospital/Solar_Panel.jpg") no-repeat scroll 0 0;
+        .icon-box-13 {
+            background: url("../img/Hospital/Solar_Panel.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s
         }
 
-        .icon-box-14:hover {
-            background: url("../images/Hospital/Power_Back.jpg") no-repeat scroll 0 0;
+        .icon-box-14 {
+            background: url("../img/Hospital/Power_Back.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s
         }
 
-        .icon-box-15:hover {
-            background: url("../images/Hospital/Operation_Theater.jpg") no-repeat scroll 0 0;
+        .icon-box-15 {
+            background: url("../img/Hospital/Operation_Theater.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s
         }
 
-        .icon-box-16:hover {
-            background: url("../images/Hospital/Dialysis_Unit.jpg") no-repeat scroll 0 0;
+        .icon-box-16 {
+            background: url("../img/Hospital/Dialysis_Unit.jpg") no-repeat scroll 0 0;
             border: 1px solid #e6e6e6;
             transition: all .5s ease 0s
         }
@@ -877,49 +877,61 @@ p {
         }
 
         .icon-box-11 p {
-            color: #595d8f;
+            color: orange;
+            font-weight: 700;
+            text-shadow: 1px 1px red;
             font-size: 13px;
-            line-height: 1.4em;
+            line-height: 1.6em;
             padding: 0;
             text-align: center
         }
 
         .icon-box-12 p {
-            color: #595d8f;
+            color: orange;
+            font-weight: 700;
+            text-shadow: 1px 1px red;
             font-size: 13px;
-            line-height: 1.4em;
+            line-height: 1.6em;
             padding: 0;
             text-align: center
         }
 
         .icon-box-13 p {
-            color: #595d8f;
+            color: orange;
+            font-weight: 700;
+            text-shadow: 1px 1px red;
             font-size: 13px;
-            line-height: 1.4em;
+            line-height: 1.6em;
             padding: 0;
             text-align: center
         }
 
         .icon-box-14 p {
-            color: #595d8f;
+            color: orange;
+            font-weight: 700;
+            text-shadow: 1px 1px red;
             font-size: 13px;
-            line-height: 1.4em;
+            line-height: 1.6em;
             padding: 0;
             text-align: center
         }
 
         .icon-box-15 p {
-            color: #595d8f;
+            color: orange;
+            font-weight: 700;
+            text-shadow: 1px 1px red;
             font-size: 13px;
-            line-height: 1.4em;
+            line-height: 1.6em;
             padding: 0;
             text-align: center
         }
 
         .icon-box-16 p {
-            color: #595d8f;
+            color: orange;
+            font-weight: 700;
+            text-shadow: 1px 1px red;
             font-size: 13px;
-            line-height: 1.4em;
+            line-height: 1.6em;
             padding: 0;
             text-align: center
         }
@@ -948,13 +960,14 @@ p {
 
         .icon-box2-title {
             color: coral;
+            text-shadow: 2px 2px red;
             font-size: 15px;
             letter-spacing: .5px;
             line-height: 1.3em;
             margin: 5px 0;
             text-align: center;
             width: 100%;
-            font-weight: 400
+            font-weight: 900
         }
 
         .icon-box-3 p {
