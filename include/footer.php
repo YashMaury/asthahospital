@@ -82,6 +82,8 @@
                         UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-intagrame"></i></a>
                         <a href="https://www.linkedin.com/channel/
                         UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.youtube.com/channel/
+                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-youtube"></i></a>
                     </div>
                             </blockquote>
                     </div>

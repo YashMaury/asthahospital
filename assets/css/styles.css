@@ -1468,7 +1468,7 @@ p {
             
         .foot-widget {
             border: medium none;
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 
         .foot-address {
@@ -1494,18 +1494,20 @@ p {
         .foot-widget-title {
             color: #fff;
             float: left;
-            font-size: 15px;
+            font-size: 20px;
             font-weight: 600;
             line-height: 2.3em;
             text-transform: uppercase;
-            width: 100%
-        }
+            width: 100%;
+            margin-left: 6%;
 
+        }
+         
         .recent-post-foot li {
             background: rgba(0, 0, 0, 0) url("../images/list-arrow-foot.png") no-repeat scroll 0 5px;
             float: left;
             padding: 0 0 0 17px;
-            width: 100%
+            width: 100%;
         }
 
         .recent-post-foot li a {

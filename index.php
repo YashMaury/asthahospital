@@ -1521,7 +1521,7 @@
                                                     <i class="flip-icons icon-heart"></i>
                                                 </div>
                                             </div>
-                                            <img src="images/Direction_Icon.png">
+                                            <img src="images/direction4.jpg">
                                             <h3 class="flip-box-head-txt">Direction</h3>
                                             <p style="border-bottom: 1px solid red; ">Check Here.</p>
                                         </div><!-- END .front -->
