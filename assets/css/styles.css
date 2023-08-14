@@ -13,6 +13,8 @@ body {
     overflow-x: hidden
 }
 
+
+
 #loader-overlay {
     background: #fff none repeat scroll 0 0;
     height: 100%;
@@ -1463,7 +1465,7 @@ p {
             right: 0;
             z-index: -1
         }
-
+            
         .foot-widget {
             border: medium none;
             margin-bottom: 0

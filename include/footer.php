@@ -72,7 +72,18 @@
                         <blockquote cite="https://www.facebook.com/Asthahospitalallahabad"
                             class="fb-xfbml-parse-ignore"><a
                                 href="#https://www.facebook.com/Asthahospitalallahabad">Astha Hospital</a>
-                        </blockquote>
+                        
+                                <div class="social-link">
+                        <a href="https://www.facebook.com/channel/
+                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-facebook"></i></a>
+                        <a href="https://www.twitter.com/channel/
+                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.intagrame.com/channel/
+                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-intagrame"></i></a>
+                        <a href="https://www.linkedin.com/channel/
+                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                            </blockquote>
                     </div>
                 </div>
             </div>
