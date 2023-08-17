@@ -9,9 +9,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Anesthesia_Department.html">Anaesthesia</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Anesthesia_Department.php">Anaesthesia</a></li>
                 </ul>
             </div>
         </div>
@@ -87,7 +87,7 @@
                                                 <div class="pad">
                                                     <b>
                                                        
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head" style="font-family:'Arimo', sans-serif;">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head" style="font-family:'Arimo', sans-serif;">
                                                             Dr. Alpna Sharma - <span>M.D. (Anaesthesia) <br>| Senior Consultant</span>
                                                         </a>
                                                         

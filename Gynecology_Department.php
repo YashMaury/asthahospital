@@ -12,9 +12,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Gynecology_Department.html">Gynaecology</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Gynecology_Department.php">Gynaecology</a></li>
                 </ul>
             </div>
         </div>
@@ -103,16 +103,16 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="Dr_Amrita_Agrahari.html" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="Dr_Amrita_Agrahari.php" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Amrita Madhab Agrahari - <span>DGO | FICMCH (Gynaecology and Obstetrics) | Senior Consultant</span>
                                                         </a>
                                                         
                                                                                                               
-                                                        <a href="Dr_Smita_Srivastava.html" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="Dr_Smita_Srivastava.php" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Smita Srivastava - <span>DGO | DNB (Gynaecology and Obstetrics) | Senior Consultant</span>
                                                         </a>
                                                         
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Urmi Neogi - <span>M.S. (Gynaecology and Obstetrics) <br>| Senior Consultant</span>
                                                         </a>
                                                         

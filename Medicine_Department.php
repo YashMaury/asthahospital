@@ -9,9 +9,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Medicine_Department.html">Medicine Department</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Medicine_Department.php">Medicine Department</a></li>
                 </ul>
             </div>
         </div>
@@ -84,21 +84,21 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. B. P. Agarwal - <span> M.D. (Medicine)  | Senior Consultant</span>
                                                         </a>
                                                     </b>
                                                 </div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. Sharad - <span> M.D. (Medicine)  | Senior Consultant</span>
                                                         </a>
                                                     </b>
                                                 </div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. Subodh Jain - <span> M.D. (Medicine)  | Senior Consultant</span>
                                                         </a>
                                                     </b>

@@ -12,9 +12,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Doctors.html">Doctors</a></li>
-                    <li><a href="Dr_Amrita_Agrahari.html">Dr. Amrita Agrahari</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Doctors.php">Doctors</a></li>
+                    <li><a href="Dr_Amrita_Agrahari.php">Dr. Amrita Agrahari</a></li>
                 </ul>
             </div>
         </div>

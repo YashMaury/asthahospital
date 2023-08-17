@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Pain_Management.html">Pain Management</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Pain_Management.php">Pain Management</a></li>
                 </ul>
             </div>
         </div>
@@ -110,7 +110,7 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="Dr_Rupam_Sinha.html" alt="Click Here For Doctor" class="team_head" style="font-family:'Arimo', sans-serif;">
+                                                        <a href="Dr_Rupam_Sinha.php" alt="Click Here For Doctor" class="team_head" style="font-family:'Arimo', sans-serif;">
                                                             Dr. Rupam Kumar Sinha - <span>M.D. <br>| Senior Consultant</span>
                                                         </a>
                                                        

@@ -9,9 +9,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Nephrology_Department.html">Nephrology</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Nephrology_Department.php">Nephrology</a></li>
                 </ul>
             </div>
         </div>
@@ -95,7 +95,7 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="Dr_A_Gupta.html" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="Dr_A_Gupta.php" alt="Click Here For Doctor" class="team_head">
                                                             Dr. A. Gupta - <span>M.D. | DNB (Nephrology) <br>| Senior Consultant</span>
                                                         </a>
                                                         

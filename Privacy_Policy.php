@@ -12,8 +12,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Privacy_Policy.html">Privacy Policy</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Privacy_Policy.php">Privacy Policy</a></li>
                 </ul>
             </div>
         </div>
@@ -65,15 +65,15 @@
 
                 </p>
                 <p style="text-align: justify; font-size:13px; line-height: 25px;">
-                    <b>Complaints: - </b>if you think, your Privacy have been compromised then you may file a complaint with the Hospital by Selecting Complaints/Grievances in Enquiry Page at <a href="Enquiries.html">Enquiry</a>
+                    <b>Complaints: - </b>if you think, your Privacy have been compromised then you may file a complaint with the Hospital by Selecting Complaints/Grievances in Enquiry Page at <a href="Enquiries.php">Enquiry</a>
                     <br>
                     All complaints will be investigated by the Hospital. You will not be penalized in any way for filing a complaint.
                 </p>
                 <p style="text-align: justify; font-size:13px; line-height: 25px;">
-                    <b>Suggestion: - </b>If you think, you have the Suggestions for the Betterment of the Hospital and other related activities, and then you can give your Suggestions by Selecting Suggestions at <a href="Enquiries.html">Enquiry</a>
+                    <b>Suggestion: - </b>If you think, you have the Suggestions for the Betterment of the Hospital and other related activities, and then you can give your Suggestions by Selecting Suggestions at <a href="Enquiries.php">Enquiry</a>
                 </p>
                 <p style="text-align: justify; font-size:13px; line-height: 25px;">
-                    <b>Testimonials: - </b>You can give your Feedback on the Hospital Services, Doctors, and Patient Treatments and on other Related Services at by Selecting Testimonials at <a href="Enquiries.html">Enquiry</a>
+                    <b>Testimonials: - </b>You can give your Feedback on the Hospital Services, Doctors, and Patient Treatments and on other Related Services at by Selecting Testimonials at <a href="Enquiries.php">Enquiry</a>
                     
                 </p>
                 

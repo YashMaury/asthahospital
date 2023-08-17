@@ -14,9 +14,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Doctors.html">Doctors</a></li>
-                    <li><a href="Dr_Rupam_Sinha.html">Dr. Rupam Sinha</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Doctors.php">Doctors</a></li>
+                    <li><a href="Dr_Rupam_Sinha.php">Dr. Rupam Sinha</a></li>
                 </ul>
             </div>
         </div>

@@ -10,8 +10,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Doctors.html">Doctors</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Doctors.php">Doctors</a></li>
                   
                 </ul>
                 
@@ -40,7 +40,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
                                 <li class="blue"><a href="http://www.drsanjayaasthana.com/" target='_blank'>Book an Appointment</a></li>
-                                <li class="blue"><a href="Dr_Sanjaya_Asthana.html">View Doctor</a></li>
+                                <li class="blue"><a href="Dr_Sanjaya_Asthana.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -84,14 +84,14 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
                                 <li class="blue"><a href="http://drdhaneshagrahari.com/Appointment.php" target='_blank'>Book an appointment</a></li>
-                                <li class="blue"><a href="Dr_Dhanesh_Agrahari.html">View Doctor</a></li>
+                                <li class="blue"><a href="Dr_Dhanesh_Agrahari.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="item_caption">
                          <p>
                                 <strong style="color:crimson; font-size:15px; font-weight: 400;">
-                                    <a href="Dr_Dhanesh_Agrahari.html" style="color:crimson">  Dr. Dhanesh Agrahari</a></strong><br>
+                                    <a href="Dr_Dhanesh_Agrahari.php" style="color:crimson">  Dr. Dhanesh Agrahari</a></strong><br>
                              M.S. | M.Ch | (Pediatric Surgeon)
                             </p>
                       							
@@ -107,7 +107,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-<li class="blue"><a href="Dr_Rupam_Sinha.html">View Doctor</a></li>
+<li class="blue"><a href="Dr_Rupam_Sinha.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                         
                             <p>
                                 <strong style="color:crimson; font-size:15px; font-weight: 400;">
-                                    <a href="Dr_Rupam_Sinha.html" style="color:crimson">Dr. Rupam Sinha</a></strong><br>
+                                    <a href="Dr_Rupam_Sinha.php" style="color:crimson">Dr. Rupam Sinha</a></strong><br>
                              M.D.
                             </p>
                       
@@ -136,7 +136,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -158,14 +158,14 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                 <li class="blue"><a href="Dr_A_Gupta.html">View Doctor</a></li>
+                                 <li class="blue"><a href="Dr_A_Gupta.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="item_caption">
                         <p>
                                 <strong style="color:crimson; font-size:15px; font-weight: 400;">
-                                    <a href="Dr_A_Gupta.html" style="color:crimson">Dr. A. Gupta</a></strong><br>
+                                    <a href="Dr_A_Gupta.php" style="color:crimson">Dr. A. Gupta</a></strong><br>
                                M.D. | DNB | (Nephrology)
                             </p>
                        
@@ -181,7 +181,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -202,7 +202,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -230,14 +230,14 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-<li class="blue"><a href="Dr_Amrita_Agrahari.html">View Doctor</a></li>
+<li class="blue"><a href="Dr_Amrita_Agrahari.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="item_caption">
                           <p>
                                 <strong style="color:crimson; font-size:15px; font-weight: 400;">
-                                    <a href="Dr_Amrita_Agrahari.html" style="color:crimson">Dr. Amrita Agrahari</a></strong><br>
+                                    <a href="Dr_Amrita_Agrahari.php" style="color:crimson">Dr. Amrita Agrahari</a></strong><br>
                             DGO | FICMCH | (Gynae.)
                             </p>
                     
@@ -253,14 +253,14 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                           <li class="blue"><a href="Dr_Smita_Srivastava.html">View Doctor</a></li>
+                           <li class="blue"><a href="Dr_Smita_Srivastava.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="item_caption">
                         <p>
                                 <strong style="color:crimson; font-size:15px; font-weight: 400;">
-                                    <a href="Dr_Smita_Srivastava.html" style="color:crimson">Dr. Smita Srivastava</a></strong><br>
+                                    <a href="Dr_Smita_Srivastava.php" style="color:crimson">Dr. Smita Srivastava</a></strong><br>
                             DGO - DNB | MNAMS | (Gynae.)
                             </p>
                        
@@ -276,7 +276,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -297,7 +297,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -325,7 +325,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>

@@ -12,9 +12,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Gastero_Department.html">Gasteroenterology</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Gastero_Department.php">Gasteroenterology</a></li>
                 </ul>
             </div>
         </div>
@@ -107,14 +107,14 @@
                                                 <div class="fol_cont" style="font-size:16px; "><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Alok Misra - <span>M.D. | D.M. (Gasteroenterology) <br>| Senior Consultant</span>
                                                         </a>
                                                     </b>
                                                 </div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Rohit Gupta - <span>M.D. | D.M. (Gasteroenterology) <br>| Senior Consultant</span>
                                                         </a>
                                                     </b>

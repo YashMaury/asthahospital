@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Neurosurgery_Department.html">Neurosurgery</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Neurosurgery_Department.php">Neurosurgery</a></li>
                 </ul>
             </div>
         </div>
@@ -97,7 +97,7 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="Dr_Sanjaya_Asthana.html" target="_blank" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="Dr_Sanjaya_Asthana.php" target="_blank" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Sanjay Asthana - <span>M.S. | M.Ch. (Neurosurgery) | Senior Consultant</span>
                                                         </a>
                                                     </b>

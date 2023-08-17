@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="General_Access_Minimal_Department.html">Minimal Access Surgery</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="General_Access_Minimal_Department.php">Minimal Access Surgery</a></li>
                 </ul>
             </div>
         </div>
@@ -100,13 +100,13 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. P Neogi - <span>M.S. | FRCS (Minimal Access Surgery) <br>| Senior Consultant</span>
                                                         </a>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. Ashok Agarwal - <span>M.S. | FIAS | FIAGES (Minimal Access Surgery) | Senior Consultant</span>
                                                         </a>
-                                                         <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                         <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. Sharad Varma - <span>M.S. | FMAS | FIAGES | MBA | M.Phil (Minimal Access Surgery)</span>
                                                         </a>
                                                         

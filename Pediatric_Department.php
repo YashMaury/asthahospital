@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Pediatric_Department.html">Pediatric and Neonatal</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Pediatric_Department.php">Pediatric and Neonatal</a></li>
                 </ul>
             </div>
         </div>
@@ -102,7 +102,7 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. J. V. Rai - <span>M.D. | (Pediatrics & Neonatal) <br>| Senior Consultant</span>
                                                         </a>
                                                         
@@ -110,7 +110,7 @@
                                                 </div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" alt="Click Here For Doctor" class="team_head">
                                                             Dr. Shubha Malviya - <span>DCH | (Pediatrics & Neonatal) <br>| Consultant</span>
                                                         </a>
                                                         

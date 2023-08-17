@@ -11,8 +11,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Guidelines_For_Patients.html">Guidelines For Patient</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Guidelines_For_Patients.php">Guidelines For Patient</a></li>
                 </ul>
             </div>
         </div>
@@ -25,29 +25,29 @@
             <div class="bhoechie-tab-container departments">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 bhoechie-tab-menu">
                     <div class="list-group">
-                        <a href="Admission_Procedure.html" class="list-group-item">
+                        <a href="Admission_Procedure.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Admission Procedure</span>
                         </a>
-                        <a href="During_Stay.html" class="list-group-item">
+                        <a href="During_Stay.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>During Stay</span>
                         </a>
-                        <a href="Discharge_Procedure.html" class="list-group-item">
+                        <a href="Discharge_Procedure.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Discharge Procedure</span>
                         </a>
-                       <a href="Timing_Schedule.html" class="list-group-item">
+                       <a href="Timing_Schedule.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Timing & Schedule</span>
                         </a>
-                        <a href="Doctor_Schedule.html" class="list-group-item">
+                        <a href="Doctor_Schedule.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Doctors OPD Schedule</span>
                         </a>
-                        <a href="Guidelines_For_Patients.html" class="list-group-item  active">
+                        <a href="Guidelines_For_Patients.php" class="list-group-item  active">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Guidelines For Patient</span>
                         </a>
-                        <a href="Guidelines_For_Visitors.html" class="list-group-item">
+                        <a href="Guidelines_For_Visitors.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Guidelines For Visitors</span>
                         </a>
                                           
-                        <a href="Billing_Procedure.html" class="list-group-item">
+                        <a href="Billing_Procedure.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Billing Procedure</span>
                         </a>
 <!--                        <a href="Make_An_Appointment.php" target="_blank" class="list-group-item">
@@ -57,10 +57,10 @@
 <!--                        <a href="Success_Stories.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Success Stories</span>
                         </a>-->
-                        <a href="Corporate_Tie_Ups.html" class="list-group-item">
+                        <a href="Corporate_Tie_Ups.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Corporate Tie-Ups</span>
                         </a>
-                        <a href="Quality_Safety.html" class="list-group-item">
+                        <a href="Quality_Safety.php" class="list-group-item">
                             <h4 class="fa fa-shield fontawsme"></h4><span>Quality & Safety</span>
                         </a>
 <!--                        <a href="Online_Bill_Payment.php" class="list-group-item">

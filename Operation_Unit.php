@@ -11,8 +11,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Operation_Unit.html">Operation Unit</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Operation_Unit.php">Operation Unit</a></li>
                 </ul>
             </div>
         </div>
@@ -25,45 +25,45 @@
             <div class="bhoechie-tab-container departments">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 bhoechie-tab-menu">
                     <div class="list-group">
-                        <a href="Intensive_Care_Unit.html" class="list-group-item">
+                        <a href="Intensive_Care_Unit.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>ICU</span>
                         </a>
-                        <a href="NICU.html" class="list-group-item">
+                        <a href="NICU.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>NICU</span>
                         </a>
-                        <a href="PICU.html" class="list-group-item">
+                        <a href="PICU.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>PICU</span>
                         </a>
-                        <a href="Hygiene.html" class="list-group-item">
+                        <a href="Hygiene.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Hygiene</span>
                         </a>
-                        <a href="Pathology.html" class="list-group-item">
+                        <a href="Pathology.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Pathology</span>
                         </a>
-                        <a href="Pharmacy.html" class="list-group-item">
+                        <a href="Pharmacy.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Pharmacy</span>
                         </a>
                     
-                        <a href="Patient_Rooms.html" class="list-group-item">
+                        <a href="Patient_Rooms.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Patient Rooms</span>
                         </a>
-                        <a href="Oxygen_Plant.html" class="list-group-item">
+                        <a href="Oxygen_Plant.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Oxygen Plant</span>
                         </a>
                        
-                        <a href="Solar_Panel.html" class="list-group-item">
+                        <a href="Solar_Panel.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Solar Panel Plant</span>
                         </a>
-                        <a href="Power_BackUp_Plant.html" class="list-group-item">
+                        <a href="Power_BackUp_Plant.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Power Back Plant</span>
                         </a>
-                        <a href="Water_Treatment.html" class="list-group-item">
+                        <a href="Water_Treatment.php" class="list-group-item">
                             <h4 class="fa fa-shield fontawsme"></h4><span>Water Treatment Plant</span>
                         </a>
-                        <a href="Operation_Unit.html" class="list-group-item active">
+                        <a href="Operation_Unit.php" class="list-group-item active">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Operation Theater Unit</span>
                         </a>
-                        <a href="Dialysis_Unit.html" class="list-group-item">
+                        <a href="Dialysis_Unit.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>High End Dialysis Unit</span>
                         </a>
                     </div> 

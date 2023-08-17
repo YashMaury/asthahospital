@@ -10,9 +10,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Oncology_Department.html">Oncology Department</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Oncology_Department.php">Oncology Department</a></li>
                 </ul>
             </div>
         </div>
@@ -80,14 +80,14 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. B. Paul - <span>M.D. (Oncology) | Senior Consultant</span>
                                                         </a>
                                                     </b>
                                                 </div>
                                                  <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. B. K. Mishra - <span>M.D. (Oncology) | Senior Consultant</span>
                                                         </a>
                                                     </b>

@@ -13,8 +13,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Core_Management_Team.html">Core Management</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Core_Management_Team.php">Core Management</a></li>
                 </ul>
             </div>
         </div>
@@ -26,25 +26,25 @@
             <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12 bhoechie-tab-container departments">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 bhoechie-tab-menu">
                     <div class="list-group">
-                        <a href="Core_Management_Team.html" class="list-group-item active">
+                        <a href="Core_Management_Team.php" class="list-group-item active">
                             <h4 class="fa fa-user fontawsme"></h4><span>Core Management Team</span>
                         </a>
-                        <a href="About_Us.html" class="list-group-item">
+                        <a href="About_Us.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>About Astha</span>
                         </a>
-                        <a href="About_Our_Logo.html" class="list-group-item">
+                        <a href="About_Our_Logo.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>About our Logo</span>
                         </a>
-                        <a href="Mission_And_Vision.html" class="list-group-item">
+                        <a href="Mission_And_Vision.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Mission and Vision</span>
                         </a>
-                        <a href="Why_Us-2.html" class="list-group-item">
+                        <a href="Why_Us-2.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Why Astha</span>
                         </a>
-                        <a href="Achievements.html" class="list-group-item">
+                        <a href="Achievements.php" class="list-group-item">
                             <h4 class="fa fa-shield fontawsme"></h4><span>Achievements</span>
                         </a>
-                        <a href="Our_Values.html" class="list-group-item">
+                        <a href="Our_Values.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Our Values</span>
                         </a>
                     </div>
@@ -62,7 +62,7 @@
                                 <p>Dr. Sanjay Asthana - M.S. | M.Ch. (Neurosurgery)</p>
                                 <span>Dr. Sanjay Asthana is a Senior Consultant in Neuro Surgery who performed Surgery on the nervous system especially in the Brain and Spinal Cord.</span>
                                 <div class="readmore">
-                                    <a href="Doctors.html">Read More ></a>
+                                    <a href="Doctors.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                                 <p>Dr. J. V. Rai - M.D. | MRCP (Pediatrics)</p>
                                 <span>Dr. J. V. Rai is a Senior Consultant in Medicine in Pediatrics & Neonatal involving of Fetuses, Infants, Children and Teens.</span>
                                 <div class="readmore">
-                                    <a href="Doctors.html">Read More ></a>
+                                    <a href="Doctors.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
@@ -93,7 +93,7 @@
                                     He has operated of more than 10,000 children with various surgical problems which includes rare complex conditions. 
                                 </span>
                                 <div class="readmore">
-                                    <a href="Dr_Dhanesh_Agrahari.html">Read More ></a>
+                                    <a href="Dr_Dhanesh_Agrahari.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@
                                 <p>Dr. Alok Misra - M.D. | D.M. (Gastroenterology)</p>
                                 <span>Dr. Alok Misra is a Senior Consultant in Medicine who deals with the disorders of the Stomach and the Intestines.</span>
                                 <div class="readmore">
-                                    <a href="Doctors.html">Read More ></a>
+                                    <a href="Doctors.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
                                     Muscular Pain, all types of Neuralgias and Neuropathic Pain including that of due to Diabetes also.
                                     </span>
                                 <div class="readmore">
-                                    <a href="Dr_Rupam_Sinha.html">Read More ></a>
+                                    <a href="Dr_Rupam_Sinha.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
                                 <span>Dr. Urmi Neogi is a Senior Consultant - Gynaecological & Obstetrics Surgeon who deals with the Functions and Diseases specific to Women and Girls, especially those affecting the reproductive system.
                                     </span>
                                 <div class="readmore">
-                                    <a href="Doctors.html">Read More ></a>
+                                    <a href="Doctors.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
@@ -148,7 +148,7 @@
                                 <p>Dr. Vibhav Malviya - M.S. | M.Ch (Urology)</p>
                                 <span>Dr. Vibhav Malviya is a Senior Consultant in Urology who focuses on Surgical and Medical diseases of the Male and Female Urinary Tract System and the Male Reproductive Organs.</span>
                                 <div class="readmore">
-                                    <a href="Doctors.html">Read More ></a>
+                                    <a href="Doctors.php">Read More ></a>
                                 </div>
                             </div>
                         </div>

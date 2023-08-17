@@ -62,8 +62,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Hospital_Directory.html">Hospital Directory</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Hospital_Directory.php">Hospital Directory</a></li>
                 </ul>
             </div>
         </div>
@@ -75,16 +75,16 @@
            <div class="bhoechie-tab-container departments">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 bhoechie-tab-menu">
                    <div class="list-group">
-                        <a href="Enquiries.html" class="list-group-item">
+                        <a href="Enquiries.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Enquiries</span>
                         </a>
-                        <a href="Address_and_Direction_Map.html" class="list-group-item">
+                        <a href="Address_and_Direction_Map.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Address & Direction Map</span>
                         </a>
-                        <a href="Hospital_Directory.html" class="list-group-item active">
+                        <a href="Hospital_Directory.php" class="list-group-item active">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Hospital Directory</span>
                         </a>
-                        <a href="Work_With_Us.html" class="list-group-item">
+                        <a href="Work_With_Us.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Work With Us</span>
                         </a>
                        

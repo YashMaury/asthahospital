@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Chest_Medicine.html">Chest Medicine Department</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Chest_Medicine.php">Chest Medicine Department</a></li>
                 </ul>
             </div>
         </div>

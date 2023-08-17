@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="PediEndri_Department.html">Paed. Endocrinology Department</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="PediEndri_Department.php">Paed. Endocrinology Department</a></li>
                 </ul>
             </div>
         </div>
@@ -81,7 +81,7 @@
                                                 <div class="fol_cont" style="font-size:16px;"><b>Specialist</b><br></div>
                                                 <div class="pad">
                                                     <b>
-                                                        <a href="About_Doctors.html" target="_blank" alt="Click Here For Doctor" class="team_head">
+                                                        <a href="About_Doctors.php" target="_blank" alt="Click Here For Doctor" class="team_head">
                                                             Dr. Anurag Bajpai - <span>M.D. | D.M (Pead. Endocrinology) <br> | Senior Consultant</span>
                                                         </a>
                                                     </b>

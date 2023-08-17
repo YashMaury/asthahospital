@@ -13,8 +13,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="About_Our_Logo.html">About our Logo</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="About_Our_Logo.php">About our Logo</a></li>
                 </ul>
             </div>
         </div>
@@ -26,25 +26,25 @@
             <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12 bhoechie-tab-container departments">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 bhoechie-tab-menu">
                     <div class="list-group">
-                        <a href="Core_Management_Team.html" class="list-group-item">
+                        <a href="Core_Management_Team.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Core Management Team</span>
                         </a>
-                        <a href="About_Us.html" class="list-group-item">
+                        <a href="About_Us.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>About Astha</span>
                         </a>
-                        <a href="About_Our_Logo.html" class="list-group-item active">
+                        <a href="About_Our_Logo.php" class="list-group-item active">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>About our Logo</span>
                         </a>
-                        <a href="Mission_And_Vision.html" class="list-group-item">
+                        <a href="Mission_And_Vision.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Mission and Vision</span>
                         </a>
-                        <a href="Why_Us-2.html" class="list-group-item">
+                        <a href="Why_Us-2.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Why us</span>
                         </a>
-                        <a href="Achievements.html" class="list-group-item">
+                        <a href="Achievements.php" class="list-group-item">
                             <h4 class="fa fa-shield fontawsme"></h4><span>Achievements</span>
                         </a>
-                        <a href="Our_Values.html" class="list-group-item">
+                        <a href="Our_Values.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Our Values</span>
                         </a>
                     </div>

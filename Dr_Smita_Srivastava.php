@@ -11,9 +11,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Doctors.html">Doctors</a></li>
-                    <li><a href="Dr_Smita_Srivastava.html">Dr. Smita Srivastava</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Doctors.php">Doctors</a></li>
+                    <li><a href="Dr_Smita_Srivastava.php">Dr. Smita Srivastava</a></li>
                 </ul>
             </div>
         </div>

@@ -10,9 +10,9 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Departments.html">Departments</a></li>
-                    <li><a href="Pediatric_Surgery.html">Pediatric Surgery</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Pediatric_Surgery.php">Pediatric Surgery</a></li>
                 </ul>
             </div>
         </div>
@@ -111,7 +111,7 @@
                                                 <div class="pad">
                                                     <b>
                                                        
-                                                        <a href="Dr_Dhanesh_Agrahari.html" alt="Click Here For Doctor" class="team_head" >
+                                                        <a href="Dr_Dhanesh_Agrahari.php" alt="Click Here For Doctor" class="team_head" >
                                                             Dr. Dhanesh Agrahari - <span>M.S. | M.Ch (Pediatric Surgery) | Senior Consultant</span>
                                                         </a>
                                                         
