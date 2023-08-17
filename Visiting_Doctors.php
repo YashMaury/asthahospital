@@ -13,8 +13,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Visiting_Doctors.html">Doctors</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Visiting_Doctors.php">Doctors</a></li>
                 </ul>
             </div>
         </div>
@@ -39,7 +39,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="Dr_Dhanesh_Agrahari.html">View Doctor</a></li>
+                                <li class="blue"><a href="Dr_Dhanesh_Agrahari.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -198,7 +198,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -226,7 +226,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -248,7 +248,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -291,7 +291,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -346,7 +346,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -368,7 +368,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -390,7 +390,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -416,7 +416,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -442,7 +442,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -464,7 +464,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -486,7 +486,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -512,7 +512,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -538,7 +538,7 @@
                         <div class="feed-btn3 indi-btn">							
                             <ul>
 <!--                                <li class="blue"><a href="Book_An_Appointment.php">Book an appointment</a></li>-->
-                                <li class="blue"><a href="About_Doctors.html">View Doctor</a></li>
+                                <li class="blue"><a href="About_Doctors.php">View Doctor</a></li>
                             </ul>
                         </div>
                     </div>

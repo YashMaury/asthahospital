@@ -10,8 +10,8 @@
             </div>
             <div class="bread-crumb pull-right">
                 <ul>
-                    <li><a href="index.html">Home</a></li> 
-                    <li><a href="Testimonials.html">Testimonials</a></li>
+                    <li><a href="index.php">Home</a></li> 
+                    <li><a href="Testimonials.php">Testimonials</a></li>
                 </ul>
             </div>
         </div>
@@ -26,26 +26,26 @@
                    
                        
                             <div class="list-group">
-                                <a href="Press_Release.html" class="list-group-item">
+                                <a href="Press_Release.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Press Release</span>
                         </a>
-                                <a href="Social_Media_Coverage.html" class="list-group-item">
+                                <a href="Social_Media_Coverage.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Social Media Coverage</span>
                         </a>
-                                <a href="health_checkup_packages.html" class="list-group-item">
+                                <a href="health_checkup_packages.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Health Checkup Packages</span>
                         </a>
-                                <a href="Gallery.html" class="list-group-item">
+                                <a href="Gallery.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Gallery</span>
                         </a>
-                                <a href="Health_Tips.html" class="list-group-item">
+                                <a href="Health_Tips.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Health Tips</span>
                         </a>
-                                <a href="Events_Free_Check_Ups.html" class="list-group-item">
+                                <a href="Events_Free_Check_Ups.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Events and Free Check Ups</span>
                         </a>
                     
-                                <a href="Testimonials.html" class="list-group-item active">
+                                <a href="Testimonials.php" class="list-group-item active">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Testimonials</span>
                         </a>
 <!--                                <a href="News_Letters.php" class="list-group-item">
