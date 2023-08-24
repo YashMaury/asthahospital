@@ -84,194 +84,190 @@
                                             <th>Speciality</th>
                                             <th>Morning OPD </th>
                                             <th>Evening OPD </th>
-                                          
-<!--                                            <th>Book An Appointment</th>-->
+                                           <th>View Profile</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>
                                                 <a href="#">
-                                                    <img src="images/Doctors/Dr.SanjayAsthana.jpg" alt="Dr.Sanjay Asthana" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Rajesh Kumar Chauhan" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
-                                            <td><a href="#">Dr. Sanjay Asthana</a> </td>
-                                            <td>M.S | M.Ch (Neurosurgery)</td>
+                                            <td><a href="#">Mr. Rajesh Kumar Chauhan</a> </td>
+                                            <td>M.D (HDM) Physician </td>
                                             <td>11 AM - 2 PM</td>
                                             <td>---------</td> 
-                                            
-<!--                                            <td>
-                                                <a href="" class="btn btn-primary">Book An Appointment </a>
-                                            </td>-->
-                                        </tr> 
-                                        <tr>
-                                            <td>
-                                                <a href="Dr_Dhanesh_Agrahari.php">
-                                                    <img src="images/Doctors/Dr_Dhanesh_Agrahari1.jpg" alt="Dr.Dhanesh Agrahari" style="width: 30%;" class="thumbnail">
-                                                </a>
-                                            </td>
-                                            <td><a href="Dr_Dhanesh_Agrahari.php">Dr. Dhanesh Agrahari</a> </td>
-                                            <td>M.S | M.Ch (Ped. Surgery)</td>
-                                            <td>1 PM - 3 PM</td>
-                                            <td>7 PM - 8 PM</td>
-                                            
+                                            <td><a href="Mr_Rajesh_Kumar_Chauhan.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
                                             <td>
                                                 <a href="#">
-                                                    <img src="images/Doctors/Dr.ProbalNeogi.jpg" alt="Dr.P Neogi" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Rajesh Kumar " style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
-                                            <td><a href="#">Dr. P. Neogi</a> </td>
-                                            <td>M.S. | FRCS (Minimal Surgery)</td>
+                                            <td><a href="Mr_Rajesh_Kumar.php">Dr. Rajesh Kumar </a> </td>
+                                            <td>MBBS , MD (Cardiology)</td>
+                                            <td>1 PM - 3 PM</td>
+                                            <td>7 PM - 8 PM</td>
+                                            <td><a href="Mr_Rajesh_Kumar.php">View Profile </a></td>
+                                        </tr> 
+                                        <tr>
+                                            <td>
+                                                <a href="Dr_A_K_Tripathi.php">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. A.K Tripathi" style="width: 30%;" class="thumbnail">
+                                                </a>
+                                            </td>
+                                            <td><a href="Dr. A.K Tripathi">Dr. A.K Tripathi</a> </td>
+                                            <td>MBBS, MS Genral Surgen, Laparoscopy</td>
                                             <td>2 PM - 3 PM</td>
                                             <td>7 PM - 8 PM</td>
-                                           
+                                            <td><a href="Dr_A_K_Tripathi.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
                                             <td>
-                                                <a href="#">
-                                                    <img src="images/Doctors/Dr_J_V_Rai.jpg" alt="Dr. J. V. Rai" style="width: 30%;" class="thumbnail">
+                                                <a href="Dr_Sanjay_Sharma.php">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Sanjay Sharma" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
-                                            <td><a href="#">Dr. J.V.Rai</a> </td>
-                                            <td>M.D. | MRCP (Pediatrics)</td>
+                                            <td><a href="#">Dr. Sanjay Sharma</a> </td>
+                                            <td>MBBS, DHB (Ortho)</td>
                                             <td>9.30 AM - 10 AM</td>
                                             <td>6 PM - 8 PM</td>
-                                           
+                                            <td><a href="Dr_Sanjay_Sharma.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
                                             <td>
-                                                <a href="Dr_A_Gupta.php">
-                                                    <img src="images/Doctors/Dr_A_Gupta.jpg" alt="Dr. A Gupta" style="width: 30%;" class="thumbnail">
+                                                <a href="Dr_M_P_Singh.php">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. M.P Singh" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
-                                            <td><a href="Dr_A_Gupta.php">Dr. A Gupta</a> </td>
-                                            <td>M.D. | DNB (Nephrology)</td>
+                                            <td><a href="Dr_A_Gupta.php">Dr. M.P Singh</a> </td>
+                                            <td>MBBS, Dipcart, Cardiologist</td>
                                             <td>2 PM to 5 PM</td>
                                             <td>------------</td>
-                                           
+                                            <td><a href="Dr_M_P_Singh.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
                                             <td>
-                                                <a href="#">
-                                                    <img src="images/Doctors/Dr_Alok_Misra.png" alt="Dr. Alok Misra" style="width: 30%;" class="thumbnail">
+                                                <a href="Dr_M_P_Yadav.php">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. M.P Yadav" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
-                                            <td><a href="#">Dr. Alok Misra</a> </td>
-                                            <td>M.D. | D.M. (Gastroenterology)</td>
+                                            <td><a href="#">Dr. M.P Yadav</a> </td>
+                                            <td>MBBS, MS (Ortho)</td>
                                             <td>9 AM - 2 PM</td>
                                             <td>-----------</td>
-                                           
+                                            <td><a href="Dr_M_P_Yadav.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
                                             <td>
                                                 <a href="#">
-                                                    <img src="images/Doctors/Dr_Vibhav_Malviya.jpg" alt="Dr. Vibhav Malviya" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Manoj Kumar Chaube" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
-                                            <td><a href="#">Dr. Vibhav Malviya</a> </td>
-                                            <td>M.S. | M.Ch. (Urology)</td>
+                                            <td><a href="Dr_Manoj_Kumar_Chaube.php">Dr. Manoj Kumar Chaube</a> </td>
+                                            <td>MD. Anesthesia</td>
                                             <td>1 PM - 3 PM</td>
                                             <td>----------</td>
-                                           
-                                        </tr> 
-                                        <tr>
-                                            <td>
-                                                <a href="Dr_Amrita_Agrahari.php">
-                                                    <img src="images/Doctors/Dr_Amrita_Agrahari1.jpg" alt="Dr. Amrita Agrahari" style="width: 30%;" class="thumbnail">
-                                                </a>
-                                            </td>
-                                            <td><a href="Dr_Amrita_Agrahari.php">Dr. Amrita Agrahari</a> </td>
-                                            <td>DGO | FICMCH (Gynaecology)</td>
-                                            <td>11 AM - 2 PM</td>
-                                            <td>6 PM - 7 PM</td>
-                                            
-                                        </tr> 
-                                        <tr>
-                                            <td>
-                                                <a href="Dr_Smita_Srivastava.php">
-                                                    <img src="images/Doctors/Dr_Smita_Srivastava.jpg" alt="Dr. Smita Srivastava" style="width: 30%;" class="thumbnail">
-                                                </a>
-                                            </td>
-                                            <td><a href="Dr_Smita_Srivastava.php">Dr. Smita Srivastava</a> </td>
-                                            <td>DGO | MNAMS (Gynaecology)</td>
-                                            <td>1 PM - 3 PM</td>
-                                            <td>7 PM - 8 PM</td>
-                                            
+                                            <td><a href="Dr_Manoj_Kumar_Chaube.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
                                             <td>
                                                 <a href="#">
-                                                    <img src="images/Doctors/Dr_Urmi_Neogi.jpg" alt="Dr. Urmi Neogi" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Sakleen Ali" style="width: 30%;" class="thumbnail">
+                                                </a>
+                                            </td>
+                                            <td><a href="Dr_Sakleen_Ali.php">Dr. Sakleen Ali</a> </td>
+                                            <td>BUMS (RMO)</td>
+                                            <td>11 AM - 2 PM</td>
+                                            <td>6 PM - 7 PM</td>
+                                            <td><a href="Dr_Sakleen_Ali.php">View Profile </a></td>
+                                        </tr> 
+                                        <tr>
+                                            <td>
+                                                <a href="#">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Rakesh Rao" style="width: 30%;" class="thumbnail">
+                                                </a>
+                                            </td>
+                                            <td><a href="Dr_Rakesh_Rao.php">Dr. Rakesh Rao</a> </td>
+                                            <td>MBBS Physician</td>
+                                            <td>1 PM - 3 PM</td>
+                                            <td>7 PM - 8 PM</td>
+                                            <td><a href="Dr_Rakesh_Rao.php">View Profile </a></td>
+                                        </tr> 
+                                        <!-- <tr>
+                                            <td>
+                                                <a href="#">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Urmi Neogi" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
                                             <td><a href="#">Dr. Urmi Neogi</a> </td>
                                             <td>M.S. | (Gynaecology)</td>
                                             <td>10 AM - 12 PM</td>
                                             <td>3 PM - 5 PM</td>
-                                          
+                                            <td><a href="Mr. Rajesh Kumar Chauhan">View Profile </a></td>
                                         </tr>
                                          <tr >
                                              <td>
                                                 <a href="#">
-                                                    <img src="images/Doctors/Dr_Shubha_Malviya.jpg" alt="Dr. Shubha Malviya" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Shubha Malviya" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
                                             <td><a href="#">Dr. Shubha Malviya</a> </td>
                                             <td>DCH | (Paediatrics)</td>
                                             <td>12 PM - 2 PM</td>
                                             <td>6 PM - 8 PM</td>
-                                          
+                                            <td><a href="Mr. Rajesh Kumar Chauhan">View Profile </a></td>
                                         </tr>
                                         <tr >
                                              <td>
                                                 <a href="#">
-                                                    <img src="images/male-default.png" alt="Dr. Pranay Bhushan" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Pranay Bhushan" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
                                             <td><a href="#">Dr. Pranay Bhushan Pandey</a> </td>
                                             <td>M.D. |(Orthopedic)</td>
                                             <td>10 PM - 1 PM</td>
                                             <td>---------</td>
-                                          
+                                            <td><a href="Mr. Rajesh Kumar Chauhan">View Profile </a></td>
                                         </tr>
                                         <tr >
                                              <td>
                                                 <a href="#">
-                                                    <img src="images/Doctors/Dr_Avinash_Jaiswal.jpg" alt="Dr. Avinash Jaiswal" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Avinash Jaiswal" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
                                             <td><a href="#">Dr. Avinash Jaiswal</a> </td>
                                             <td>M.S. | (Orthopedic)</td>
                                             <td>2 PM - 4 PM</td>
                                             <td>----------</td>
-                                          
+                                            <td><a href="Mr. Rajesh Kumar Chauhan">View Profile </a></td>
                                         </tr>
                                         <tr >
                                              <td>
                                                 <a href="#">
-                                                    <img src="images/male-default.png" alt="Dr. B.P.Agarwal" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. B.P.Agarwal" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
                                             <td><a href="#">Dr. B. P. Agarwal</a> </td>
                                             <td>M.D. | (Medicine)</td>
                                             <td>4.30 PM - 5.30 PM</td>
                                             <td>--------------</td>
-                                          
+                                            <td><a href="Mr. Rajesh Kumar Chauhan">View Profile </a></td>
                                         </tr>
                                         <tr >
                                              <td>
                                                 <a href="#">
-                                                    <img src="images/male-default.png" alt="Dr. Ashutosh Rai" style="width: 30%;" class="thumbnail">
+                                                    <img src="assets/img/doctors/male.png" alt="Dr. Ashutosh Rai" style="width: 30%;" class="thumbnail">
                                                 </a>
                                             </td>
                                             <td><a href="#">Dr. Ashutosh Rai</a> </td>
                                             <td>M.S. | (ENT)</td>
                                             <td>2 PM - 3 PM</td>
                                             <td>-----------</td>
-                                          
-                                        </tr>
+                                            <td><a href="Mr. Rajesh Kumar Chauhan">View Profile </a></td>
+                                        </tr> -->
 
                                     </tbody>
                                 </table>

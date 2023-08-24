@@ -197,10 +197,10 @@
                             </li>
                             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#Enquiries.php">Enquiries</a></li>
-                                    <li><a href="#Address_and_Direction_Map.php">Address and Direction Map</a></li>
-                                    <li><a href="#Hospital_Directory.php">Hospital Directory</a></li>
-                                    <li><a href="#Work_With_Us.php">Work With Us</a></li>
+                                    <li><a href="Enquiries.php">Enquiries</a></li>
+                                    <li><a href="Address_and_Direction_Map.php">Address and Direction Map</a></li>
+                                    <li><a href="Hospital_Directory.php">Hospital Directory</a></li>
+                                    <li><a href="Work_With_Us.php">Work With Us</a></li>
                                 </ul>
                             </li>
                         </ul>

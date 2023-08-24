@@ -67,9 +67,10 @@
                                    
                                     <p style="text-align: justify; font-size: 13.5px;">
                                        
-                                        Astha was a mythical bird of Ancient Egypt which reputedly burned every 500 Years and rose rejuvenated from its Ashes with renewed youth to live another cycle. This word is used as a symbolic for a person or thing who is regarded as uniquely remarkable in some respect. 
-Similarly, our Hospital is named as Astha because it is a never ending organization which will exist and run successfully always. Like the Astha Bird, it will take re-birth again and again with a much more enthusiasm in better Hospital.
-                                        
+                                    Astha as the name suggests means faith
+We aim to provide quality surgical care and management at a reasonable cost.
+Astha Hospital Jaunpur is a state-of-the-art multi-specialty facility with more than 50 beds, state-of-the-art technology, providing quality healthcare services in the first phase. The hospital has been the most promising facility for the surrounding community since its inception. The modern infrastructure complies with all statutory, safety guidelines and meets the quality standards as per NABH. <br>
+                                  
                                     </p>
                                 </div>
                                 

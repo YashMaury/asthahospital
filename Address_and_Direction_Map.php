@@ -51,7 +51,7 @@
                                 <div class="col-sm-3 col-md-3 col-lg-3">
                                    
                                      
-                                    <img src="logo/hospital.jpg" width="90%" alt="image" class="thumbnail">
+                                    <img src="assets/logo/hospital.jpg" width="90%" alt="image" class="thumbnail">
                                     
                                 </div>
                               <br>

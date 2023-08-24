@@ -432,8 +432,8 @@
                                             
                                             <div class="row">
                                                 <div class="col-sm-12 col-md-12">
-                                                 <button type="submit" class="btn btn-default">
-                                                     <img src="images/submitbutton.jpg" style="float:right; height:40px; width:130px;">
+                                                 <button type="submit" class="btn ">
+                                                    <strong>Submit</strong>
                                                  </button>
                                               
 

@@ -97,8 +97,13 @@
                         <div class="col-sm-12 col-md-12 col-lg-12">
                               <h4 style="font-size:18px; color:red; border-bottom: 2px solid black; padding-bottom: 5px;">Hospital Directory !</h4> 
                            
+
+                              <p style="text-align: justify; font-size:13.5px;">
+                                        <img src="images/Coming-Soon-Page.png"/>
+                                    </p>
+
                               <div class="table-elements"> 
-                                        <table class="table table-condensed table table-bordered table-striped table-responsive">
+                                        <!-- <table class="table table-condensed table table-bordered table-striped table-responsive">
                                             <thead>
                                                 <tr>
                                                     <th>&nbsp;</th>
@@ -324,22 +329,22 @@
                                                     <td><i class="fa fa-check"></i>9792103453</td>
                                                    
                                                 </tr>
-                                                <!--<tr>-->
-                                                <!--    <th>Miss. Divya Pandey</th>-->
-                                                <!--    <td><i class="fa fa-check"></i>--</td>-->
-                                                <!--    <td><i class="fa fa-check"></i>9792103445</td>-->
+                                                <tr>
+                                                   <th>Miss. Divya Pandey</th>
+                                                   <td><i class="fa fa-check"></i>--</td>
+                                                   <td><i class="fa fa-check"></i>9792103445</td>
                                                    
-                                                <!--</tr>-->
-                                                <!--<tr>-->
-                                                <!--    <th>Mr. Neeraj (PBX)</th>-->
-                                                <!--    <td><i class="fa fa-check"></i>199</td>-->
-                                                <!--    <td><i class="fa fa-check"></i>9305361153</td>-->
+                                                </tr>
+                                                <tr>
+                                                   <th>Mr. Neeraj (PBX)</th>
+                                                   <td><i class="fa fa-check"></i>199</td>
+                                                   <td><i class="fa fa-check"></i>9305361153</td>
                                                    
-                                                <!--</tr>-->
+                                                </tr>
                                             </tbody>
                                             
                                             
-                                        </table>
+                                        </table> -->
 
                                     </div>
                              
@@ -356,8 +361,4 @@
 
 
 
-<?php
-
-include 'include/footer.php';
-
-?>
+<?php include 'include/footer.php'; ?>

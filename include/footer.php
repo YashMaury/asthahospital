@@ -34,13 +34,13 @@
                 <div class="foot-widget-title">Quick Links</div>
                 <ul>
 
-                    <li><a href="#Doctors.php">Doctors</a></li>
-                    <li><a href="#Departments.php">Departments</a></li>
-                    <li><a href="#Intensive_Care_Unit.php">Services</a></li>
-                    <li><a href="#Patient_Rooms.php">Patient Rooms</a></li>
-                    <li><a href="#About_Us.php">Who We Are</a></li>
-                    <li><a href="#Why_Us-2.php">Why Us</a></li>
-                    <li><a href="#Doctor_Schedule.php">OPD Schedule</a></li>
+                    <li><a href="Doctors.php">Doctors</a></li>
+                    <li><a href="Departments.php">Departments</a></li>
+                    <li><a href="Intensive_Care_Unit.php">Services</a></li>
+                    <li><a href="Patient_Rooms.php">Patient Rooms</a></li>
+                    <li><a href="About_Us.php">Who We Are</a></li>
+                    <li><a href="Why_Us-2.php">Why Us</a></li>
+                    <li><a href="Doctor_Schedule.php">OPD Schedule</a></li>
                 </ul>
             </div>
 
@@ -50,8 +50,8 @@
                 <ul>
                     <li><a href="#Terms_Conditions.php">Terms & Conditions</a></li>
                     <li><a href="#Privacy_Policy.php">Privacy Policy</a></li>
-                    <li><a href="#Guidelines_For_Patients.php">Guidelines for Patients</a></li>
-                    <li><a href="#Guidelines_For_Visitors.php">Guidelines for Visitors</a></li>
+                    <li><a href="Guidelines_For_Patients.php">Guidelines for Patients</a></li>
+                    <li><a href="Guidelines_For_Visitors.php">Guidelines for Visitors</a></li>
 
 
                 </ul>
@@ -71,21 +71,16 @@
                         data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
                         <blockquote cite="https://www.facebook.com/Asthahospitalallahabad"
                             class="fb-xfbml-parse-ignore"><a
-                                href="#https://www.facebook.com/Asthahospitalallahabad">Astha Hospital</a>
-                        
-                                <div class="social-link">
-                        <a href="https://www.facebook.com/channel/
-                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-facebook"></i></a>
-                        <a href="https://www.twitter.com/channel/
-                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.intagrame.com/channel/
-                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-intagrame"></i></a>
-                        <a href="https://www.linkedin.com/channel/
-                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-linkedin"></i></a>
-                        <a href="https://www.youtube.com/channel/
-                        UCwfaHy4zQUb2APNOGXUCCA"><i class="fab fa-youtube"></i></a>
-                    </div>
-                            </blockquote>
+                                href="index.php">Astha Hospital</a>
+
+                            <div class="social-link">
+                                <a href=""><i class="fab fa-facebook"></i></a>
+                                <a href=""><i class="fab fa-twitter"></i></a>
+                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                <a href=""><i class="fab fa-youtube"></i></a>
+                            </div>
+                        </blockquote>
                     </div>
                 </div>
             </div>
@@ -100,7 +95,8 @@
         <div class="row">
             <!--Foot widget-->
             <div class="col-xs-12 col-sm-12 col-md-12 foot-widget-bottom">
-                <p class="col-xs-12 col-sm-6 col-md-9 no-pad">Astha Hospital © 2012 - 2018 | All Rights
+                <p class="col-xs-12 col-sm-6 col-md-9 no-pad">Astha Hospital © 2012 - <span id="currentYear"></span> |
+                    All Rights
                     Reserved.</p>
                 <p class="foot-menu col-sm-6 col-xs-12 col-md-3 no-pad" style="text-align: right;">
                     Designed By: <a target="_blank" href="https://www.glintel.com/" target="_blank"
@@ -112,7 +108,10 @@
 </div>
 
 </div>
-
+<script>
+    var currentYear = new Date().getFullYear();
+    document.getElementById('currentYear').innerHTML = currentYear;
+</script>
 
 <script src="assets/js/jquery-1.11.3.min.js"></script>
 <script src="assets/js/jquery.min.js"></script>
