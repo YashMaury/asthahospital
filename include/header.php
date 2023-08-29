@@ -8,7 +8,34 @@
         with the mission to provide Quality Medical and Health Care ::|</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="Astha Hospital" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <meta name="description"
+        content="Astha Hospital Mariahu, Astha Hospital, Hospital in Mariahu" />
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=":: Astha Hospital Mariahu, the First Wide Ranging Multi and Super-Specialty Hospital of Mariahu City
+        with the mission to provide Quality Medical and Health Care ::|">
+    <meta property="og:description"
+        content=":: Astha Hospital Mariahu, the First Wide Ranging Multi and Super-Specialty Hospital of Mariahu City with the mission to provide Quality Medical and Health Care ::|">
+    <meta property="og:url" content="https://asthahospitalmariahu.com/">
+    <meta property="og:site_name" content="ASTHA HOSPITAL MARIAHU">
+    <meta property="og:updated_time" content="2023-08-29T14:43:23+05:30">
+    <meta property="og:image"
+        content="https://asthahospitalmariahu.com/assets/logo/logoSmall.png">
+    <meta property="og:image:secure_url"
+        content="https://asthahospitalmariahu.com/assets/logo/logoSmall.png">
+    <meta property="og:image:width" content="150">
+    <meta property="og:image:height" content="87">
+    <meta property="og:image:alt" content="Astha Hospital Mariahu">
+    <meta property="og:image:type" content="image/jpeg">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+        integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="icon" type="image/png" href="images/fevicon.png">
 
@@ -88,7 +115,9 @@
                             </div>
                             <div class="col-sm-5 col-md-5 col-lg-5 headertop3 padding_remove">
                                 <ul>
-                                    <li><a href="mailto:asthahospitalmariahu@gmail.com">asthahospitalmariahu@gmail.com</a></li>
+                                    <li><a
+                                            href="mailto:asthahospitalmariahu@gmail.com">asthahospitalmariahu@gmail.com</a>
+                                    </li>
                                     <!-- <li> <a href="https://104.238.124.80:2096/" target="_blank">Webmail Login</a></li> -->
                                 </ul>
                             </div>

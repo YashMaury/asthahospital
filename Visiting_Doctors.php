@@ -35,7 +35,7 @@
                     <div class="feed-img3">
                         <div class="clearfix">
                             <a href="#">
-                                <img src="assets/img/doctors/male.png" alt="Dr. Rajesh Kumar Chauhan">
+                                <img src="assets/img/doctors/Dr. Rajesh Kumar Chauhan.jpg" alt="Dr. Rajesh Kumar Chauhan">
                             </a>
                         </div>
                         <div class="feed-btn3 indi-btn">

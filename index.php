@@ -181,7 +181,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="assets/img/doctors/male.png" alt="Dr.Doctor Name"
+                                        <img src="assets/img/doctors/Dr. Rajesh Kumar Chauhan.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -766,7 +766,7 @@
                     </div>
                     <div class="col-sm-12 col-xs-12 col-md-8 col-lg-8">
                         <div class="row">
-                            <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
+                            <!-- <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-11 wow fadeInUp animated animated"
                                     style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
@@ -780,8 +780,8 @@
                                     <p>in Astha Hospital</p>
                                     <div class="iconbox-readmore"><a href="Oxygen_Plant.php">Read More</a></div>
                                 </div>
-                            </div>
-                            <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
+                            </div> -->
+                            <!-- <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-12 wow fadeInUp animated animated"
                                     style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
@@ -792,7 +792,7 @@
                                     <p>in Astha Hospital</p>
                                     <div class="iconbox-readmore"><a href="Water_Treatment.php">Read More</a></div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-13 wow fadeInUp animated animated"
@@ -805,8 +805,6 @@
                                     <div class="iconbox-readmore"><a href="Solar_Panel.php">Read More</a></div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="row">
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-14 wow fadeInUp animated animated"
@@ -831,7 +829,7 @@
                                     <div class="iconbox-readmore"><a href="Operation_Unit.php">Read More</a></div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
+                            <!-- <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-16 wow fadeInUp animated animated"
                                     style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
@@ -842,7 +840,7 @@
                                     <p>in Astha Hospital</p>
                                     <div class="iconbox-readmore"><a href="Dialysis_Unit.php">Read More</a></div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
