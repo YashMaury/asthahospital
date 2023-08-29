@@ -34,9 +34,6 @@
                         <a href="PICU.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>PICU</span>
                         </a>
-                        <a href="Hygiene.php" class="list-group-item">
-                            <h4 class="fa fa-plus-square fontawsme"></h4><span>Hygiene</span>
-                        </a>
                           <a href="Pathology.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Pathology</span>
                         </a>
@@ -47,9 +44,6 @@
                         <a href="Patient_Rooms.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Patient Rooms</span>
                         </a>
-                        <a href="Oxygen_Plant.php" class="list-group-item">
-                            <h4 class="fa fa-h-square fontawsme"></h4><span>Oxygen Plant</span>
-                        </a>
                        
                         <a href="Solar_Panel.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Solar Panel Plant</span>
@@ -57,14 +51,8 @@
                         <a href="Power_BackUp_Plant.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Power Back Plant</span>
                         </a>
-                        <a href="Water_Treatment.php" class="list-group-item">
-                            <h4 class="fa fa-shield fontawsme"></h4><span>Water Treatment Plant</span>
-                        </a>
                         <a href="Operation_Unit.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Operation Theater Unit</span>
-                        </a>
-                        <a href="Dialysis_Unit.php" class="list-group-item">
-                            <h4 class="fa fa-plus-square fontawsme"></h4><span>High End Dialysis Unit</span>
                         </a>
                     </div> 
                 </div>

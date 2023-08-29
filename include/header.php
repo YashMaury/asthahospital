@@ -143,16 +143,16 @@
                                     <li><a href="Intensive_Care_Unit.php">ICU</a></li>
                                     <li><a href="NICU.php">NICU</a></li>
                                     <li><a href="PICU.php">PICU</a></li>
-                                    <li><a href="Hygiene.php">Hygiene</a></li>
+                                    <!-- <li><a href="Hygiene.php">Hygiene</a></li> -->
                                     <li><a href="Pathology.php">Pathology</a></li>
                                     <li><a href="harmacy.php">Pharmacy</a></li>
                                     <li><a href="Patient_Rooms.php">Patient Rooms</a></li>
-                                    <li><a href="Oxygen_Plant.php">Oxygen Plant</a></li>
+                                    <!-- <li><a href="Oxygen_Plant.php">Oxygen Plant</a></li> -->
                                     <li><a href="Solar_Panel.php">Solar Panel Plant</a></li>
                                     <li><a href="Power_BackUp_Plant.php">Power Back Up Plant</a></li>
-                                    <li><a href="Water_Treatment.php">Water Treatment Plant</a></li>
+                                    <!-- <li><a href="Water_Treatment.php">Water Treatment Plant</a></li> -->
                                     <li><a href="Operation_Unit.php">Operation Theater Unit</a></li>
-                                    <li><a href="Dialysis_Unit.php">High End Dialysis Unit</a></li>
+                                    <!-- <li><a href="Dialysis_Unit.php">High End Dialysis Unit</a></li> -->
                                 </ul>
                             </li>
                             <li class="dropdown">
@@ -184,13 +184,13 @@
                             </li>
                             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Media</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#Press_Release.php">Press Release</a></li>
-                                    <li><a href="#Social_Media_Coverage.php">Social Media Coverage</a></li>
-                                    <li><a href="#health_checkup_packages.php">Health Checkup Packages</a></li>
-                                    <li><a href="#Gallery.php">Gallery</a></li>
-                                    <li><a href="#Health_Tips.php">Health Tips</a></li>
+                                    <li><a href="Press_Release.php">Press Release</a></li>
+                                    <li><a href="Social_Media_Coverage.php">Social Media Coverage</a></li>
+                                    <li><a href="health_checkup_packages.php">Health Checkup Packages</a></li>
+                                    <li><a href="Gallery.php">Gallery</a></li>
+                                    <!-- <li><a href="#Health_Tips.php">Health Tips</a></li>
                                     <li><a href="#Events_Free_Check_Ups.php">Events & Free Check Ups</a></li>
-                                    <li><a href="#Testimonials.php">Testimonials</a></li>
+                                    <li><a href="#Testimonials.php">Testimonials</a></li> -->
                                     <!--                                        <li><a href="News_Letters.php">News Letters</a></li>-->
 
                                 </ul>

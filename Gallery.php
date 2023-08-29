@@ -31,19 +31,19 @@
                    
                        
                             <div class="list-group">
-                                <a href="#Press_Release.php" class="list-group-item">
+                                <a href="Press_Release.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Press Release</span>
                         </a>
-                                <a href="#Social_Media_Coverage.php" class="list-group-item">
+                                <a href="Social_Media_Coverage.php" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Social Media Coverage</span>
                         </a>
-                                <a href="#health_checkup_packages.php" class="list-group-item">
+                                <a href="health_checkup_packages.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Health Checkup Packages</span>
                         </a>
-                                <a href="#Gallery.php" class="list-group-item active">
+                                <a href="Gallery.php" class="list-group-item active">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Gallery</span>
                         </a>
-                                <a href="#Health_Tips.php" class="list-group-item">
+                                <!-- <a href="#Health_Tips.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Health Tips</span>
                         </a>
                                 <a href="#Events_Free_Check_Ups.php" class="list-group-item">
@@ -52,7 +52,7 @@
                     
                                 <a href="#Testimonials.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Testimonials</span>
-                        </a>
+                        </a> -->
 <!--                                <a href="News_Letters.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>News Letters</span>
                         </a>-->

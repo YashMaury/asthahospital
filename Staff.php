@@ -66,15 +66,15 @@
                 continuously works in the well-being of Patient. Astha Hospital has more 
                 than 150+ Staff including all the categories who give their best in determining 
                 the quality of care in hospital and the nature of patient outcomes. We have<br>
-                50+ Nurses,<br>
-                20+ Ward Boys,<br>
-                10+ Persons in Pathology Section,<br> 
-                15+ Persons in Pharmacy,<br>
-                8+ in Reception,<br>
-                10+ taking care as OPD Attendant,<br>
+                15+ Nurses,<br>
+                15+ Ward Boys,<br>
+                4+ Persons in Pathology Section,<br> 
+                5+ Persons in Pharmacy,<br>
+                5+ in Reception,<br>
+                3+ taking care as OPD Attendant,<br>
                 5+ as in Operation Theater, and,<br>
                 5+ in Administration. <br>
-                And, around 15+ Security Guards are taking care of the Hospital Security heading by the Security Supervisor.
+                And, around 2+ Security Guards are taking care of the Hospital Security heading by the Security Supervisor.
                 
                     
                 </p>

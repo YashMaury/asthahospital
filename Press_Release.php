@@ -39,7 +39,7 @@
                                 <a href="Gallery.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Gallery</span>
                         </a>
-                                <a href="Health_Tips.php" class="list-group-item">
+                                <!-- <a href="Health_Tips.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Health Tips</span>
                         </a>
                                 <a href="Events_Free_Check_Ups.php" class="list-group-item">
@@ -48,7 +48,7 @@
                     
                                 <a href="Testimonials.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Testimonials</span>
-                        </a>
+                        </a> -->
 <!--                                <a href="News_Letters.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>News Letters</span>
                         </a>-->
@@ -65,9 +65,9 @@
                         <div class="col-sm-12 col-md-12 col-lg-12">
                            <h4 style="font-size:18px; color:red; border-bottom: 2px solid black; padding-bottom: 5px;">Press Release !</h4> 
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-12">
+                        <!-- <div class="col-sm-12 col-md-12 col-lg-12">
                             <img src="images/subh.jpg" style="width: 100%;" class="thumbnail"/>
-                        </div>
+                        </div> -->
                        <div class="col-sm-12 col-md-12 col-lg-12">
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12 col-xs-12 sec3sub2">
@@ -80,7 +80,7 @@
                                             <li><a data-toggle="tab" href="#tab-settings">2013</a></li> 
                                         </ul> -->
                                       
-                                        <div class="tab-content">
+                                        <!-- <div class="tab-content">
                                             <div id="tab-home" class="tab-pane tab_pane fade in active row">
 
                                                 <div class="col-md-12">

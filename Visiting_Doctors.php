@@ -50,7 +50,7 @@
                         <p>
                             <strong style="color:crimson; font-size:15px; font-weight: 400;">Dr. Rajesh Kumar
                                 Chauhan</strong><br>
-                            M.D (HDM) Physician
+                            M.D (HOM) Physician
                         </p>
                     </div>
                 </div>

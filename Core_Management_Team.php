@@ -55,20 +55,20 @@
 
                         <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr.SanjayAsthana.jpg" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
-                                <p>Dr. Sanjay Asthana - M.S. | M.Ch. (Neurosurgery)</p>
-                                <span>Dr. Sanjay Asthana is a Senior Consultant in Neuro Surgery who performed Surgery on the nervous system especially in the Brain and Spinal Cord.</span>
+                                <p>Dr. Rajesh Kumar Chauhan - M.D (HOM) Physician</p>
+                                <!-- <span>Dr. Sanjay Asthana is a Senior Consultant in Neuro Surgery who performed Surgery on the nervous system especially in the Brain and Spinal Cord.</span> -->
                                 <div class="readmore">
                                     <a href="Doctors.php">Read More ></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
+                        <!-- <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr_J_V_Rai.jpg" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
@@ -81,7 +81,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr_Dhanesh_Agrahari1.jpg" alt="image" width="100%" height="150px" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" height="150px" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
@@ -99,7 +99,7 @@
                         </div>
                          <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr.AlokMishra.jpg" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
@@ -112,7 +112,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr.RupamSinha.jpg" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
@@ -127,7 +127,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr_Urmi_Neogi.jpg" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
@@ -141,7 +141,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="images/Doctors/Dr_Vibhav_Malviya.jpg" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>
@@ -161,11 +161,11 @@
                                 <h4>Founder & Director</h4>
                                 <p>Mrs. Rachna Gupta</p>
                                 <span>Mrs. Rachna Gupta is specialised in administrating the Hospital with her core knowledge in Hospital Administration. She has more than 20 Years of experience in Hospital Management. </span>
-<!--                                <div class="readmore">
+                               <div class="readmore">
                                     <a href="Doctors.php">Read More ></a>
-                                </div>-->
+                                </div>
                             </div>
-                        </div>
+                        </div> -->
                       
                         </div>
                     </div>

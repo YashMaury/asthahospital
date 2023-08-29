@@ -42,7 +42,7 @@
                                 <a href="Gallery.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Gallery</span>
                         </a>
-                                <a href="Health_Tips.php" class="list-group-item">
+                                <!-- <a href="Health_Tips.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Health Tips</span>
                         </a>
                                 <a href="Events_Free_Check_Ups.php" class="list-group-item">
@@ -51,7 +51,7 @@
                     
                                 <a href="Testimonials.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Testimonials</span>
-                        </a>
+                        </a> -->
 <!--                                <a href="News_Letters.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>News Letters</span>
                         </a>-->

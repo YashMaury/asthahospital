@@ -186,7 +186,9 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
+                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - Daily</a>
+                                            </li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
@@ -196,7 +198,7 @@
                                     <p>
                                         <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Rajesh Kumar Chauhan
                                         </strong><br>
-                                        M.D (HDM) Physician 
+                                        M.D (HOM) Physician 
                                     </p>
                                 </div>
                             </div>
@@ -208,8 +210,10 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - Daily</a>
+                                            </li>
+                                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
@@ -231,9 +235,9 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!-- <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="http://www.drsanjayaasthana.com/" target='_blank'>Book An
-                                                    Appointment</a></li> -->
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - On Call</a>
+                                            </li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
@@ -254,9 +258,9 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!-- <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="http://drdhaneshagrahari.com/Appointment.php"
-                                                    target="_blank">Request An Appointment</a></li> -->
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - On Call</a>
+                                            </li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
@@ -277,8 +281,10 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
-                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - Monday 3:00 pm</a>
+                                            </li>
+                                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
@@ -299,8 +305,10 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
-                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - On Call</a>
+                                            </li>
+                                              <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
@@ -320,8 +328,10 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
-                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - On Call</a>
+                                            </li>
+                                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
@@ -342,8 +352,10 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
-                                            <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - Daily</a>
+                                            </li>
+                                        <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
@@ -363,9 +375,9 @@
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
-                                            <!-- <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="http://drdhaneshagrahari.com/Appointment.php"
-                                                    target="_blank">Request An Appointment</a></li> -->
+                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
+                                                <a>Timing - Daily</a>
+                                            </li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="Doctors.php">View Profile</a></li>
                                         </ul>
