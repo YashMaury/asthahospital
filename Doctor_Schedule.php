@@ -95,7 +95,7 @@
                                                 </a>
                                             </td>
                                             <td><a href="#">Mr. Rajesh Kumar Chauhan</a> </td>
-                                            <td>M.D (HDM) Physician </td>
+                                            <td>M.D (HOM) Physician </td>
                                             <td>11 AM - 2 PM</td>
                                             <td>---------</td> 
                                             <td><a href="Mr_Rajesh_Kumar_Chauhan.php">View Profile </a></td>
