@@ -528,8 +528,7 @@
                                         <p>
                                             Astha Hospital is the First Wide ranging Multi and Super-Specialty
                                             Hospital of this city with the mission to provide Quality Medical and Health
-                                            Care. Astha Hospital is a unit of Prayag Health Care And Research Centre
-                                            Pvt. Ltd., one amongst the best healthcare institutes in the eastern Uttar
+                                            Care. Astha Hospital, one amongst the best healthcare institutes in the eastern Uttar
                                             Pradesh.
 
                                         </p>
@@ -537,8 +536,7 @@
                                     <p>Astha is the genesis of the dream seen ten years back by few Super-Specialists
                                         of the Mariahun city to provide superspeciality services under one roof. The
                                         dream nurtured and grew within the founder directors of Astha Hospitals
-                                        Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name,
-                                        & Dr.Doctor Name until the point of culmination happened in 2012.
+                                        Dr.Rajesh Kumar Chauhan until the point of culmination happened in 2012.
                                         Astha hospital has been designed as an energy efficient building that complies
                                         with the ECBC (Energy Conservation Building Code) and sustainable design
                                         concepts have been incorporated in different aspects of the building design.
