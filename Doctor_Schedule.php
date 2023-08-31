@@ -31,9 +31,9 @@
                         <a href="Discharge_Procedure.php" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Discharge Procedure</span>
                         </a>
-                       <a href="Timing_Schedule.php" class="list-group-item">
+                       <!-- <a href="Timing_Schedule.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Timing & Schedule</span>
-                        </a>
+                        </a> -->
                         <a href="Doctor_Schedule.php" class="list-group-item  active">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Doctors OPD Schedule</span>
                         </a>
@@ -44,9 +44,9 @@
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Guidelines For Visitors</span>
                         </a>
                                           
-                        <a href="Billing_Procedure.php" class="list-group-item">
+                        <!-- <a href="Billing_Procedure.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Billing Procedure</span>
-                        </a>
+                        </a> -->
 <!--                        <a href="Make_An_Appointment.php" target="_blank" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Make An Appointment</span>
                         </a>-->
@@ -54,12 +54,12 @@
 <!--                        <a href="Success_Stories.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Success Stories</span>
                         </a>-->
-                        <a href="Corporate_Tie_Ups.php" class="list-group-item">
+                        <!-- <a href="Corporate_Tie_Ups.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Corporate Tie-Ups</span>
                         </a>
                         <a href="Quality_Safety.php" class="list-group-item">
                             <h4 class="fa fa-shield fontawsme"></h4><span>Quality & Safety</span>
-                        </a>
+                        </a> -->
 <!--                        <a href="Online_Bill_Payment.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Online Bill Payment</span>
                         </a>-->
@@ -97,7 +97,7 @@
                                             <td><a href="#">Mr. Rajesh Kumar Chauhan</a> </td>
                                             <td>M.D (HOM) Physician </td>
                                             <td>11 AM - 2 PM</td>
-                                            <td>---------</td> 
+                                            <td>6 PM - 8 PM</td> 
                                             <td><a href="Mr_Rajesh_Kumar_Chauhan.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -108,8 +108,8 @@
                                             </td>
                                             <td><a href="Mr_Rajesh_Kumar.php">Dr. Rajesh Kumar </a> </td>
                                             <td>MBBS , MD (Cardiology)</td>
-                                            <td>1 PM - 3 PM</td>
-                                            <td>7 PM - 8 PM</td>
+                                            <td>11 AM - 2 PM</td>
+                                            <td>6 PM - 8 PM</td> 
                                             <td><a href="Mr_Rajesh_Kumar.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -120,8 +120,8 @@
                                             </td>
                                             <td><a href="Dr. A.K Tripathi">Dr. A.K Tripathi</a> </td>
                                             <td>MBBS, MS Genral Surgen, Laparoscopy</td>
-                                            <td>2 PM - 3 PM</td>
-                                            <td>7 PM - 8 PM</td>
+                                            <td>On Call</td>
+                                            <td>On Call</td>
                                             <td><a href="Dr_A_K_Tripathi.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -132,8 +132,8 @@
                                             </td>
                                             <td><a href="#">Dr. Sanjay Sharma</a> </td>
                                             <td>MBBS, DHB (Ortho)</td>
-                                            <td>9.30 AM - 10 AM</td>
-                                            <td>6 PM - 8 PM</td>
+                                            <td>On Call</td>
+                                            <td>On Call</td>
                                             <td><a href="Dr_Sanjay_Sharma.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -144,8 +144,8 @@
                                             </td>
                                             <td><a href="Dr_A_Gupta.php">Dr. M.P Singh</a> </td>
                                             <td>MBBS, Dipcart, Cardiologist</td>
-                                            <td>2 PM to 5 PM</td>
                                             <td>------------</td>
+                                            <td>3 PM to 8 PM</td>
                                             <td><a href="Dr_M_P_Singh.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -156,8 +156,8 @@
                                             </td>
                                             <td><a href="#">Dr. M.P Yadav</a> </td>
                                             <td>MBBS, MS (Ortho)</td>
-                                            <td>9 AM - 2 PM</td>
-                                            <td>-----------</td>
+                                            <td>On Call</td>
+                                            <td>On Call</td>
                                             <td><a href="Dr_M_P_Yadav.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -168,8 +168,8 @@
                                             </td>
                                             <td><a href="Dr_Manoj_Kumar_Chaube.php">Dr. Manoj Kumar Chaube</a> </td>
                                             <td>MD. Anesthesia</td>
-                                            <td>1 PM - 3 PM</td>
-                                            <td>----------</td>
+                                            <td>On Call</td>
+                                            <td>On Call</td>
                                             <td><a href="Dr_Manoj_Kumar_Chaube.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -181,7 +181,7 @@
                                             <td><a href="Dr_Sakleen_Ali.php">Dr. Sakleen Ali</a> </td>
                                             <td>BUMS (RMO)</td>
                                             <td>11 AM - 2 PM</td>
-                                            <td>6 PM - 7 PM</td>
+                                            <td>6 PM - 8 PM</td> 
                                             <td><a href="Dr_Sakleen_Ali.php">View Profile </a></td>
                                         </tr> 
                                         <tr>
@@ -192,8 +192,8 @@
                                             </td>
                                             <td><a href="Dr_Rakesh_Rao.php">Dr. Rakesh Rao</a> </td>
                                             <td>MBBS Physician</td>
-                                            <td>1 PM - 3 PM</td>
-                                            <td>7 PM - 8 PM</td>
+                                            <td>11 AM - 2 PM</td>
+                                            <td>6 PM - 8 PM</td> 
                                             <td><a href="Dr_Rakesh_Rao.php">View Profile </a></td>
                                         </tr> 
                                         <!-- <tr>

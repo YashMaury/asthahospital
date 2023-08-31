@@ -67,7 +67,7 @@
                                     <div class="row" id="slider">
                                 <div class="col-sm-12 col-md-12 col-lg-12"  id="carousel-bounding-box">
                                     <div class="carousel slide" id="myCarousel">
-                                        <img src="images/Gallery/Pathology_Department.jpg" style="width:800px; height:400px;">
+                                        <img src="assets/img/department/pathology.png" style="width:800px; height:400px;">
                                                                        
                                     </div> 
                                 </div>

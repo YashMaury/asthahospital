@@ -55,7 +55,7 @@
 
                         <div class="col-sm-12 col-md-12 col-lg-12 tabrightsec">
                             <div class="col-sm-3 col-md-3 col-lg-3 padding_remove">
-                                <img src="assets/img/doctors/male.png" alt="image" width="100%" class="thumbnail">
+                                <img src="assets/img/doctors/Dr. Rajesh Kumar Chauhan.jpg" alt="image" width="100%" class="thumbnail">
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-9 coremangmnt2">
                                 <h4>Founder & Director</h4>

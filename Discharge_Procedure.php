@@ -35,9 +35,9 @@
                         <a href="Discharge_Procedure.php" class="list-group-item active">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Discharge Procedure</span>
                         </a>
-                       <a href="Timing_Schedule.php" class="list-group-item">
+                       <!-- <a href="Timing_Schedule.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Timing & Schedule</span>
-                        </a>
+                        </a> -->
                         <a href="Doctor_Schedule.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Doctors OPD Schedule</span>
                         </a>
@@ -48,9 +48,9 @@
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Guidelines For Visitors</span>
                         </a>
                                           
-                        <a href="Billing_Procedure.php" class="list-group-item">
+                        <!-- <a href="Billing_Procedure.php" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Billing Procedure</span>
-                        </a>
+                        </a> -->
 <!--                        <a href="Make_An_Appointment.php" target="_blank" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Make An Appointment</span>
                         </a>-->
@@ -58,12 +58,12 @@
 <!--                        <a href="Success_Stories.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Success Stories</span>
                         </a>-->
-                        <a href="Corporate_Tie_Ups.php" class="list-group-item">
+                        <!-- <a href="Corporate_Tie_Ups.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Corporate Tie-Ups</span>
                         </a>
                         <a href="Quality_Safety.php" class="list-group-item">
                             <h4 class="fa fa-shield fontawsme"></h4><span>Quality & Safety</span>
-                        </a>
+                        </a> -->
 <!--                        <a href="Online_Bill_Payment.php" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Online Bill Payment</span>
                         </a>-->

@@ -184,12 +184,12 @@
                                     <!-- <li><a href="Dialysis_Unit.php">High End Dialysis Unit</a></li> -->
                                 </ul>
                             </li>
-                            <li class="dropdown">
-                                <a href="#">Doctors</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="Doctors.php">Our Core Doctors</a></li>
-                                    <li><a href="Visiting_Doctors.php">Visiting Doctors</a></li>
-                                </ul>
+                            <li>
+                                <a href="Doctors.php">Our Doctors</a>
+                                <!-- <ul class="dropdown-menu"> -->
+                                    <!-- <li><a href="Doctors.php">Our Core Doctors</a></li> -->
+                                    <!-- <li><a href="Visiting_Doctors.php">Visiting Doctors</a></li> -->
+                                <!-- </ul> -->
                             </li>
                             <li><a href="Staff.php">Staff</a>
                             <li class="dropdown">
@@ -198,15 +198,15 @@
                                     <li><a href="Admission_Procedure.php">Admission Procedure</a></li>
                                     <li><a href="During_Stay.php">During Stay</a></li>
                                     <li><a href="Discharge_Procedure.php">Discharge Procedure</a></li>
-                                    <li><a href="Timing_Schedule.php">Timing & Schedule</a></li>
+                                    <!-- <li><a href="Timing_Schedule.php">Timing & Schedule</a></li> -->
                                     <li><a href="Doctor_Schedule.php">Doctors OPD Schedule</a></li>
                                     <li><a href="Guidelines_For_Patients.php">Guidelines For Patients</a></li>
                                     <li><a href="Guidelines_For_Visitors.php">Guidelines For Visitors</a></li>
-                                    <li><a href="#Billing_Procedure.php">Billing Procedure</a></li>
+                                    <!-- <li><a href="#Billing_Procedure.php">Billing Procedure</a></li> -->
                                     <!--<li><a href="Make_An_Appointment.php">Make An Appointment</a></li>-->
                                     <!--<li><a href="Success_Stories.php">Success Stories</a></li>-->
-                                    <li><a href="#Corporate_Tie_Ups.php">Corporate Tie-Ups</a></li>
-                                    <li><a href="#Quality_Safety.php">Quality & Safety</a></li>
+                                    <!-- <li><a href="#Corporate_Tie_Ups.php">Corporate Tie-Ups</a></li> -->
+                                    <!-- <li><a href="#Quality_Safety.php">Quality & Safety</a></li> -->
                                     <!--<li><a href="Online_Bill_Payment.php">Online Bill Payment</a></li>-->
 
                                 </ul>

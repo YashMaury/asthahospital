@@ -124,7 +124,7 @@ We always dreamt through open such a large scale super speciality hospital in th
                                     </p>
                                 </div>
                                 <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <img src="images/Hospital/Hospital_small.png" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
+                                    <img src="assets/img/Hospital/34.jpeg" alt="image" style="width: 100%;height: 220px;" class="thumbnail">
                                     <h4>Hospital </h4>
                                   <p style="text-align: justify;font-size:13px;">
                                       When we were planning to open a hospital, our only mission was that to open such a hospital which could provide every basic and advanced health facilities under one roof so that the Patients or their attendants don’t have to roam here and there in search of super specialist facilities. Considering the mental status of attendants and the Patients, every facilities like

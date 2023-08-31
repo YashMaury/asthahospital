@@ -551,7 +551,7 @@
                                 <div id="tab-home" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/gallery2/nicu.jpg" alt="ICU Section" width="100%">
+                                            src="images/Gallery2/nicu.jpg" alt="ICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -582,7 +582,7 @@
                                 <div id="tab-profile" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/gallery2/nicu.jpg" alt="NICU Section" width="100%">
+                                            src="images/Gallery2/nicu.jpg" alt="NICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -606,7 +606,7 @@
                                 <div id="tab-messages" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/gallery2/pathology.jpg" alt="image" width="100%">
+                                            src="images/Gallery2/pathology.jpg" alt="image" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -761,10 +761,10 @@
             <div class="container">
                 <div class="row">
                     <h3 class="secheadng2">Our Hospital Specialties</h3>
-                    <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 padding_remove">
+                    <!-- <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 padding_remove">
                         <img alt="" src="images/gallery2/ot4.jpg" alt="image" class="thumbnail" width="100%">
-                    </div>
-                    <div class="col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                    </div> -->
+                    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12">
                         <div class="row">
                             <!-- <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
@@ -793,7 +793,19 @@
                                     <div class="iconbox-readmore"><a href="Water_Treatment.php">Read More</a></div>
                                 </div>
                             </div> -->
-                            <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
+                            <div class="col-sm-12 col-xs-12 col-md-3 col-lg-3 departmnt_sec">
+                                <div data-wow-offset="150" data-wow-delay="0.6s"
+                                    class="icon-box-12 wow fadeInUp animated animated"
+                                    style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
+                                    <div class="icon-boxwrap2"><i class="fa fa-medkit icon-box-back2"></i></div>
+                                    <div class="icon-box2-title">
+                                        Pathology
+                                    </div>
+                                    <p>in Astha Hospital</p>
+                                    <div class="iconbox-readmore"><a href="Pathology.php">Read More</a></div>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-xs-12 col-md-3 col-lg-3 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-13 wow fadeInUp animated animated"
                                     style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
@@ -805,7 +817,7 @@
                                     <div class="iconbox-readmore"><a href="Solar_Panel.php">Read More</a></div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
+                            <div class="col-sm-12 col-xs-12 col-md-3 col-lg-3 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-14 wow fadeInUp animated animated"
                                     style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
@@ -817,7 +829,7 @@
                                     <div class="iconbox-readmore"><a href="Power_BackUp_Plant.php">Read More</a></div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
+                            <div class="col-sm-12 col-xs-12 col-md-3 col-lg-3 departmnt_sec">
                                 <div data-wow-offset="150" data-wow-delay="0.6s"
                                     class="icon-box-15 wow fadeInUp animated animated"
                                     style="visibility: visible;-webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; animation-delay: 0.6s;">
